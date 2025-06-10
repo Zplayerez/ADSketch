@@ -1,0 +1,810 @@
+2025-06-03 12:42:55,586 [INFO]: ^^^^^^^^^^^^^^^ Offline anomaly detection for CPU Usage dataset ^^^^^^^^^^^^^^^
+2025-06-03 12:42:56,377 [INFO]: ============================================================
+2025-06-03 12:42:56,377 [INFO]: Dataset: cpu_usage (metric cpu_usage_1), m: 5, p: 99
+2025-06-03 12:43:04,513 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:43:04,553 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:43:04,553 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:43:04,559 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:04,561 [INFO]: precision: 0.400, recall: 0.500, f1: 0.444
+2025-06-03 12:43:04,662 [INFO]: Experiment result plotted!
+2025-06-03 12:43:04,883 [INFO]: ============================================================
+2025-06-03 12:43:04,884 [INFO]: Dataset: cpu_usage (metric cpu_usage_2), m: 5, p: 99
+2025-06-03 12:43:04,892 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:43:04,938 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-03 12:43:04,942 [INFO]: The number of anomalous clusters: 7
+2025-06-03 12:43:04,954 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:04,972 [INFO]: precision: 0.533, recall: 0.727, f1: 0.615
+2025-06-03 12:43:05,019 [INFO]: Experiment result plotted!
+2025-06-03 12:43:05,242 [INFO]: ============================================================
+2025-06-03 12:43:05,242 [INFO]: Dataset: cpu_usage (metric cpu_usage_3), m: 5, p: 99
+2025-06-03 12:43:05,253 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:43:05,266 [INFO]: The number of anomalous seqs after ap clustering: 0
+2025-06-03 12:43:05,266 [INFO]: The number of anomalous clusters: 0
+2025-06-03 12:43:05,274 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:05,276 [INFO]: No anomalous patterns detected!
+2025-06-03 12:43:05,276 [INFO]: precision: 0.000, recall: 0.000, f1: 0.000
+2025-06-03 12:43:05,279 [INFO]: Experiment result plotted!
+2025-06-03 12:43:05,512 [INFO]: ============================================================
+2025-06-03 12:43:05,512 [INFO]: Dataset: cpu_usage (metric cpu_usage_4), m: 5, p: 99
+2025-06-03 12:43:05,525 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:43:05,542 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-03 12:43:05,542 [INFO]: The number of anomalous clusters: 7
+2025-06-03 12:43:05,547 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:05,551 [INFO]: precision: 0.533, recall: 1.000, f1: 0.696
+2025-06-03 12:43:05,556 [INFO]: Experiment result plotted!
+2025-06-03 12:43:05,781 [INFO]: ============================================================
+2025-06-03 12:43:05,781 [INFO]: Dataset: cpu_usage (metric cpu_usage_5), m: 5, p: 99
+2025-06-03 12:43:05,790 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:43:05,843 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:43:05,843 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:43:05,848 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:05,850 [INFO]: precision: 0.400, recall: 1.000, f1: 0.571
+2025-06-03 12:43:05,859 [INFO]: Experiment result plotted!
+2025-06-03 12:43:06,069 [INFO]: ============================================================
+2025-06-03 12:43:06,069 [INFO]: Dataset: cpu_usage (metric cpu_usage_6), m: 5, p: 99
+2025-06-03 12:43:06,078 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:43:06,094 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-03 12:43:06,094 [INFO]: The number of anomalous clusters: 3
+2025-06-03 12:43:06,100 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:06,100 [INFO]: precision: 0.533, recall: 1.000, f1: 0.696
+2025-06-03 12:43:06,102 [INFO]: Experiment result plotted!
+2025-06-03 12:43:06,306 [INFO]: ============================================================
+2025-06-03 12:43:06,306 [INFO]: Dataset: cpu_usage (metric cpu_usage_7), m: 5, p: 99
+2025-06-03 12:43:06,314 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:43:06,329 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:43:06,331 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:43:06,334 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:06,336 [INFO]: precision: 0.429, recall: 1.000, f1: 0.600
+2025-06-03 12:43:06,342 [INFO]: Experiment result plotted!
+2025-06-03 12:43:06,551 [INFO]: ============================================================
+2025-06-03 12:43:06,551 [INFO]: Dataset: cpu_usage (metric cpu_usage_8), m: 5, p: 99
+2025-06-03 12:43:06,560 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:43:06,600 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:43:06,602 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:43:06,606 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:06,608 [INFO]: precision: 0.571, recall: 1.000, f1: 0.727
+2025-06-03 12:43:06,614 [INFO]: Experiment result plotted!
+2025-06-03 12:43:06,817 [INFO]: ============================================================
+2025-06-03 12:43:06,825 [INFO]: Dataset: cpu_usage (metric cpu_usage_9), m: 5, p: 99
+2025-06-03 12:43:06,831 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:43:06,847 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-03 12:43:06,847 [INFO]: The number of anomalous clusters: 5
+2025-06-03 12:43:06,851 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:06,853 [INFO]: precision: 0.600, recall: 1.000, f1: 0.750
+2025-06-03 12:43:06,859 [INFO]: Experiment result plotted!
+2025-06-03 12:43:07,078 [INFO]: ============================================================
+2025-06-03 12:43:07,078 [INFO]: Dataset: cpu_usage (metric cpu_usage_10), m: 5, p: 99
+2025-06-03 12:43:07,086 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:43:07,105 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-03 12:43:07,105 [INFO]: The number of anomalous clusters: 7
+2025-06-03 12:43:07,113 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:07,114 [INFO]: precision: 0.667, recall: 0.556, f1: 0.606
+2025-06-03 12:43:07,117 [INFO]: Experiment result plotted!
+2025-06-03 12:43:07,349 [INFO]: ============================================================
+2025-06-03 12:43:07,349 [INFO]: Dataset: cpu_usage (metric cpu_usage_11), m: 5, p: 99
+2025-06-03 12:43:07,359 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:43:07,398 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-03 12:43:07,398 [INFO]: The number of anomalous clusters: 7
+2025-06-03 12:43:07,408 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:07,408 [INFO]: precision: 0.273, recall: 0.429, f1: 0.333
+2025-06-03 12:43:07,414 [INFO]: Experiment result plotted!
+2025-06-03 12:43:07,635 [INFO]: ============================================================
+2025-06-03 12:43:07,635 [INFO]: Dataset: cpu_usage (metric cpu_usage_12), m: 5, p: 99
+2025-06-03 12:43:07,643 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:43:07,664 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:43:07,664 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:43:07,668 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:07,670 [INFO]: precision: 0.722, recall: 1.000, f1: 0.839
+2025-06-03 12:43:07,677 [INFO]: Experiment result plotted!
+2025-06-03 12:43:07,909 [INFO]: ============================================================
+2025-06-03 12:43:07,914 [INFO]: Dataset: cpu_usage (metric cpu_usage_13), m: 5, p: 99
+2025-06-03 12:43:07,927 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:43:07,975 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-03 12:43:07,978 [INFO]: The number of anomalous clusters: 7
+2025-06-03 12:43:07,982 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:07,984 [INFO]: precision: 0.500, recall: 1.000, f1: 0.667
+2025-06-03 12:43:07,996 [INFO]: Experiment result plotted!
+2025-06-03 12:43:08,275 [INFO]: ============================================================
+2025-06-03 12:43:08,275 [INFO]: Dataset: cpu_usage (metric cpu_usage_14), m: 5, p: 99
+2025-06-03 12:43:08,291 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:43:08,333 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:43:08,333 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:43:08,339 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:08,341 [INFO]: precision: 0.778, recall: 1.000, f1: 0.875
+2025-06-03 12:43:08,347 [INFO]: Experiment result plotted!
+2025-06-03 12:43:08,560 [INFO]: ============================================================
+2025-06-03 12:43:08,560 [INFO]: Dataset: cpu_usage (metric cpu_usage_15), m: 5, p: 99
+2025-06-03 12:43:08,576 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:43:08,576 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:43:08,576 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:43:08,591 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:08,591 [INFO]: precision: 0.455, recall: 0.556, f1: 0.500
+2025-06-03 12:43:08,591 [INFO]: Experiment result plotted!
+2025-06-03 12:43:08,828 [INFO]: ============================================================
+2025-06-03 12:43:08,828 [INFO]: Dataset: cpu_usage (metric cpu_usage_16), m: 5, p: 99
+2025-06-03 12:43:08,842 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:43:08,863 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:43:08,863 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:43:08,868 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:08,869 [INFO]: precision: 0.400, recall: 0.571, f1: 0.471
+2025-06-03 12:43:08,878 [INFO]: Experiment result plotted!
+2025-06-03 12:43:09,098 [INFO]: ============================================================
+2025-06-03 12:43:09,098 [INFO]: Dataset: cpu_usage (metric cpu_usage_17), m: 5, p: 99
+2025-06-03 12:43:09,113 [INFO]: The number of anomalous seqs: 5
+2025-06-03 12:43:09,140 [INFO]: The number of anomalous seqs after ap clustering: 4
+2025-06-03 12:43:09,140 [INFO]: The number of anomalous clusters: 3
+2025-06-03 12:43:09,140 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:09,146 [INFO]: precision: 0.500, recall: 0.667, f1: 0.571
+2025-06-03 12:43:09,150 [INFO]: Experiment result plotted!
+2025-06-03 12:43:09,477 [INFO]: ============================================================
+2025-06-03 12:43:09,477 [INFO]: Dataset: cpu_usage (metric cpu_usage_18), m: 5, p: 99
+2025-06-03 12:43:09,499 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:43:09,511 [INFO]: The number of anomalous seqs after ap clustering: 2
+2025-06-03 12:43:09,511 [INFO]: The number of anomalous clusters: 2
+2025-06-03 12:43:09,525 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:09,530 [INFO]: precision: 0.375, recall: 0.429, f1: 0.400
+2025-06-03 12:43:09,530 [INFO]: Experiment result plotted!
+2025-06-03 12:43:09,748 [INFO]: ============================================================
+2025-06-03 12:43:09,748 [INFO]: Dataset: cpu_usage (metric cpu_usage_19), m: 5, p: 99
+2025-06-03 12:43:09,769 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:43:09,806 [INFO]: The number of anomalous seqs after ap clustering: 0
+2025-06-03 12:43:09,806 [INFO]: The number of anomalous clusters: 0
+2025-06-03 12:43:09,811 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:09,811 [INFO]: No anomalous patterns detected!
+2025-06-03 12:43:09,811 [INFO]: precision: 1.000, recall: 1.000, f1: 1.000
+2025-06-03 12:43:09,814 [INFO]: Experiment result plotted!
+2025-06-03 12:43:10,223 [INFO]: ============================================================
+2025-06-03 12:43:10,223 [INFO]: Dataset: cpu_usage (metric cpu_usage_20), m: 5, p: 99
+2025-06-03 12:43:10,243 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:43:10,285 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:43:10,287 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:43:10,290 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:10,296 [INFO]: precision: 0.500, recall: 0.625, f1: 0.556
+2025-06-03 12:43:10,302 [INFO]: Experiment result plotted!
+2025-06-03 12:43:10,559 [INFO]: ============================================================
+2025-06-03 12:43:10,559 [INFO]: Dataset: cpu_usage (metric cpu_usage_21), m: 5, p: 99
+2025-06-03 12:43:10,572 [INFO]: The number of anomalous seqs: 5
+2025-06-03 12:43:10,589 [INFO]: The number of anomalous seqs after ap clustering: 5
+2025-06-03 12:43:10,591 [INFO]: The number of anomalous clusters: 5
+2025-06-03 12:43:10,595 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:10,599 [INFO]: precision: 0.556, recall: 1.000, f1: 0.714
+2025-06-03 12:43:10,608 [INFO]: Experiment result plotted!
+2025-06-03 12:43:10,935 [INFO]: ============================================================
+2025-06-03 12:43:10,935 [INFO]: Dataset: cpu_usage (metric cpu_usage_22), m: 5, p: 99
+2025-06-03 12:43:10,935 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:43:10,971 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:43:10,971 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:43:10,977 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:10,977 [INFO]: precision: 0.500, recall: 0.700, f1: 0.583
+2025-06-03 12:43:10,982 [INFO]: Experiment result plotted!
+2025-06-03 12:43:11,289 [INFO]: ============================================================
+2025-06-03 12:43:11,289 [INFO]: Dataset: cpu_usage (metric cpu_usage_23), m: 5, p: 99
+2025-06-03 12:43:11,299 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:43:11,326 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-03 12:43:11,326 [INFO]: The number of anomalous clusters: 7
+2025-06-03 12:43:11,335 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:11,335 [INFO]: precision: 0.455, recall: 0.625, f1: 0.526
+2025-06-03 12:43:11,359 [INFO]: Experiment result plotted!
+2025-06-03 12:43:11,681 [INFO]: ============================================================
+2025-06-03 12:43:11,681 [INFO]: Dataset: cpu_usage (metric cpu_usage_24), m: 5, p: 99
+2025-06-03 12:43:11,681 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:43:11,696 [INFO]: The number of anomalous seqs after ap clustering: 5
+2025-06-03 12:43:11,710 [INFO]: The number of anomalous clusters: 5
+2025-06-03 12:43:11,712 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:11,712 [INFO]: precision: 0.333, recall: 0.429, f1: 0.375
+2025-06-03 12:43:11,721 [INFO]: Experiment result plotted!
+2025-06-03 12:43:11,980 [INFO]: ============================================================
+2025-06-03 12:43:11,980 [INFO]: Dataset: cpu_usage (metric cpu_usage_25), m: 5, p: 99
+2025-06-03 12:43:11,998 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:43:12,022 [INFO]: The number of anomalous seqs after ap clustering: 4
+2025-06-03 12:43:12,022 [INFO]: The number of anomalous clusters: 4
+2025-06-03 12:43:12,028 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:12,028 [INFO]: precision: 0.333, recall: 1.000, f1: 0.500
+2025-06-03 12:43:12,034 [INFO]: Experiment result plotted!
+2025-06-03 12:43:12,275 [INFO]: ============================================================
+2025-06-03 12:43:12,275 [INFO]: Dataset: cpu_usage (metric cpu_usage_26), m: 5, p: 99
+2025-06-03 12:43:12,281 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:43:12,301 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:43:12,301 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:43:12,303 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:12,305 [INFO]: precision: 0.571, recall: 1.000, f1: 0.727
+2025-06-03 12:43:12,313 [INFO]: Experiment result plotted!
+2025-06-03 12:43:12,534 [INFO]: ============================================================
+2025-06-03 12:43:12,534 [INFO]: Dataset: cpu_usage (metric cpu_usage_27), m: 5, p: 99
+2025-06-03 12:43:12,534 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:43:12,593 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-03 12:43:12,593 [INFO]: The number of anomalous clusters: 3
+2025-06-03 12:43:12,598 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:12,598 [INFO]: precision: 0.533, recall: 0.615, f1: 0.571
+2025-06-03 12:43:12,607 [INFO]: Experiment result plotted!
+2025-06-03 12:43:12,820 [INFO]: ============================================================
+2025-06-03 12:43:12,820 [INFO]: Dataset: cpu_usage (metric cpu_usage_28), m: 5, p: 99
+2025-06-03 12:43:12,836 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:43:12,858 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-03 12:43:12,858 [INFO]: The number of anomalous clusters: 7
+2025-06-03 12:43:12,858 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:12,864 [INFO]: precision: 0.375, recall: 0.600, f1: 0.462
+2025-06-03 12:43:12,870 [INFO]: Experiment result plotted!
+2025-06-03 12:43:13,097 [INFO]: ============================================================
+2025-06-03 12:43:13,097 [INFO]: Dataset: cpu_usage (metric cpu_usage_29), m: 5, p: 99
+2025-06-03 12:43:13,105 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:43:13,143 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:43:13,143 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:43:13,149 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:13,151 [INFO]: precision: 0.643, recall: 0.750, f1: 0.692
+2025-06-03 12:43:13,151 [INFO]: Experiment result plotted!
+2025-06-03 12:43:13,409 [INFO]: ============================================================
+2025-06-03 12:43:13,409 [INFO]: Dataset: cpu_usage (metric cpu_usage_30), m: 5, p: 99
+2025-06-03 12:43:13,421 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:43:13,442 [INFO]: The number of anomalous seqs after ap clustering: 5
+2025-06-03 12:43:13,442 [INFO]: The number of anomalous clusters: 5
+2025-06-03 12:43:13,442 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:13,449 [INFO]: precision: 0.333, recall: 0.375, f1: 0.353
+2025-06-03 12:43:13,449 [INFO]: Experiment result plotted!
+2025-06-03 12:43:13,688 [INFO]: ============================================================
+2025-06-03 12:43:13,688 [INFO]: Dataset: cpu_usage (metric cpu_usage_31), m: 5, p: 99
+2025-06-03 12:43:13,707 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:43:13,733 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-03 12:43:13,733 [INFO]: The number of anomalous clusters: 7
+2025-06-03 12:43:13,743 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:13,745 [INFO]: precision: 0.455, recall: 0.357, f1: 0.400
+2025-06-03 12:43:13,750 [INFO]: Experiment result plotted!
+2025-06-03 12:43:14,002 [INFO]: ============================================================
+2025-06-03 12:43:14,002 [INFO]: Dataset: cpu_usage (metric cpu_usage_32), m: 5, p: 99
+2025-06-03 12:43:14,008 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:43:14,026 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:43:14,026 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:43:14,032 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:14,036 [INFO]: precision: 0.714, recall: 1.000, f1: 0.833
+2025-06-03 12:43:14,044 [INFO]: Experiment result plotted!
+2025-06-03 12:43:14,283 [INFO]: ============================================================
+2025-06-03 12:43:14,283 [INFO]: Dataset: cpu_usage (metric cpu_usage_33), m: 5, p: 99
+2025-06-03 12:43:14,301 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:43:14,315 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:43:14,315 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:43:14,323 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:14,329 [INFO]: precision: 0.500, recall: 0.556, f1: 0.526
+2025-06-03 12:43:14,332 [INFO]: Experiment result plotted!
+2025-06-03 12:43:14,557 [INFO]: ============================================================
+2025-06-03 12:43:14,557 [INFO]: Dataset: cpu_usage (metric cpu_usage_34), m: 5, p: 99
+2025-06-03 12:43:14,578 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:43:14,596 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:43:14,598 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:43:14,600 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:14,600 [INFO]: precision: 0.714, recall: 0.667, f1: 0.690
+2025-06-03 12:43:14,611 [INFO]: Experiment result plotted!
+2025-06-03 12:43:14,858 [INFO]: ============================================================
+2025-06-03 12:43:14,858 [INFO]: Dataset: cpu_usage (metric cpu_usage_35), m: 5, p: 99
+2025-06-03 12:43:14,858 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:43:14,926 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:43:14,928 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:43:14,938 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:14,948 [INFO]: precision: 0.300, recall: 0.250, f1: 0.273
+2025-06-03 12:43:14,968 [INFO]: Experiment result plotted!
+2025-06-03 12:43:15,300 [INFO]: ============================================================
+2025-06-03 12:43:15,302 [INFO]: Dataset: cpu_usage (metric cpu_usage_36), m: 5, p: 99
+2025-06-03 12:43:15,311 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:43:15,394 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:43:15,396 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:43:15,406 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:15,416 [INFO]: precision: 0.429, recall: 1.000, f1: 0.600
+2025-06-03 12:43:15,437 [INFO]: Experiment result plotted!
+2025-06-03 12:43:15,765 [INFO]: ============================================================
+2025-06-03 12:43:15,765 [INFO]: Dataset: cpu_usage (metric cpu_usage_37), m: 5, p: 99
+2025-06-03 12:43:15,776 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:43:15,802 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-03 12:43:15,804 [INFO]: The number of anomalous clusters: 7
+2025-06-03 12:43:15,810 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:15,814 [INFO]: precision: 0.533, recall: 1.000, f1: 0.696
+2025-06-03 12:43:15,825 [INFO]: Experiment result plotted!
+2025-06-03 12:43:16,150 [INFO]: ============================================================
+2025-06-03 12:43:16,150 [INFO]: Dataset: cpu_usage (metric cpu_usage_38), m: 5, p: 99
+2025-06-03 12:43:16,150 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:43:16,195 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:43:16,195 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:43:16,201 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:16,205 [INFO]: precision: 0.643, recall: 0.692, f1: 0.667
+2025-06-03 12:43:16,224 [INFO]: Experiment result plotted!
+2025-06-03 12:43:16,564 [INFO]: ============================================================
+2025-06-03 12:43:16,564 [INFO]: Dataset: cpu_usage (metric cpu_usage_39), m: 5, p: 99
+2025-06-03 12:43:16,580 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:43:16,611 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:43:16,611 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:43:16,611 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:16,618 [INFO]: precision: 0.571, recall: 0.727, f1: 0.640
+2025-06-03 12:43:16,620 [INFO]: Experiment result plotted!
+2025-06-03 12:43:16,873 [INFO]: ============================================================
+2025-06-03 12:43:16,873 [INFO]: Dataset: cpu_usage (metric cpu_usage_40), m: 5, p: 99
+2025-06-03 12:43:16,885 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:43:16,916 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-03 12:43:16,916 [INFO]: The number of anomalous clusters: 7
+2025-06-03 12:43:16,916 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:16,926 [INFO]: precision: 0.467, recall: 1.000, f1: 0.636
+2025-06-03 12:43:16,934 [INFO]: Experiment result plotted!
+2025-06-03 12:43:17,190 [INFO]: ============================================================
+2025-06-03 12:43:17,190 [INFO]: Dataset: cpu_usage (metric cpu_usage_41), m: 5, p: 99
+2025-06-03 12:43:17,206 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:43:17,230 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:43:17,231 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:43:17,233 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:17,233 [INFO]: precision: 0.722, recall: 1.000, f1: 0.839
+2025-06-03 12:43:17,243 [INFO]: Experiment result plotted!
+2025-06-03 12:43:17,459 [INFO]: ============================================================
+2025-06-03 12:43:17,475 [INFO]: Dataset: cpu_usage (metric cpu_usage_42), m: 5, p: 99
+2025-06-03 12:43:17,475 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:43:17,503 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:43:17,504 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:43:17,504 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:17,509 [INFO]: precision: 0.500, recall: 0.583, f1: 0.538
+2025-06-03 12:43:17,511 [INFO]: Experiment result plotted!
+2025-06-03 12:43:17,773 [INFO]: ============================================================
+2025-06-03 12:43:17,773 [INFO]: Dataset: cpu_usage (metric cpu_usage_43), m: 5, p: 99
+2025-06-03 12:43:17,773 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:43:17,810 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-03 12:43:17,810 [INFO]: The number of anomalous clusters: 5
+2025-06-03 12:43:17,810 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:17,818 [INFO]: precision: 0.600, recall: 1.000, f1: 0.750
+2025-06-03 12:43:17,825 [INFO]: Experiment result plotted!
+2025-06-03 12:43:18,065 [INFO]: ============================================================
+2025-06-03 12:43:18,065 [INFO]: Dataset: cpu_usage (metric cpu_usage_44), m: 5, p: 99
+2025-06-03 12:43:18,079 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:43:18,094 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:43:18,094 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:43:18,099 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:18,101 [INFO]: precision: 0.571, recall: 0.571, f1: 0.571
+2025-06-03 12:43:18,108 [INFO]: Experiment result plotted!
+2025-06-03 12:43:18,355 [INFO]: ============================================================
+2025-06-03 12:43:18,355 [INFO]: Dataset: cpu_usage (metric cpu_usage_45), m: 5, p: 99
+2025-06-03 12:43:18,355 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:43:18,379 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-03 12:43:18,379 [INFO]: The number of anomalous clusters: 7
+2025-06-03 12:43:18,394 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:18,396 [INFO]: precision: 0.667, recall: 1.000, f1: 0.800
+2025-06-03 12:43:18,396 [INFO]: Experiment result plotted!
+2025-06-03 12:43:18,658 [INFO]: ============================================================
+2025-06-03 12:43:18,658 [INFO]: Dataset: cpu_usage (metric cpu_usage_46), m: 5, p: 99
+2025-06-03 12:43:18,678 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:43:18,699 [INFO]: The number of anomalous seqs after ap clustering: 4
+2025-06-03 12:43:18,699 [INFO]: The number of anomalous clusters: 4
+2025-06-03 12:43:18,705 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:18,708 [INFO]: precision: 0.333, recall: 0.364, f1: 0.348
+2025-06-03 12:43:18,714 [INFO]: Experiment result plotted!
+2025-06-03 12:43:18,984 [INFO]: ============================================================
+2025-06-03 12:43:18,984 [INFO]: Dataset: cpu_usage (metric cpu_usage_47), m: 5, p: 99
+2025-06-03 12:43:18,997 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:43:19,016 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:43:19,016 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:43:19,022 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:19,022 [INFO]: precision: 0.429, recall: 1.000, f1: 0.600
+2025-06-03 12:43:19,028 [INFO]: Experiment result plotted!
+2025-06-03 12:43:19,280 [INFO]: ============================================================
+2025-06-03 12:43:19,280 [INFO]: Dataset: cpu_usage (metric cpu_usage_48), m: 5, p: 99
+2025-06-03 12:43:19,299 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:43:19,317 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-03 12:43:19,317 [INFO]: The number of anomalous clusters: 7
+2025-06-03 12:43:19,327 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:19,335 [INFO]: precision: 0.500, recall: 1.000, f1: 0.667
+2025-06-03 12:43:19,343 [INFO]: Experiment result plotted!
+2025-06-03 12:43:19,593 [INFO]: ============================================================
+2025-06-03 12:43:19,593 [INFO]: Dataset: cpu_usage (metric cpu_usage_49), m: 5, p: 99
+2025-06-03 12:43:19,593 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:43:19,625 [INFO]: The number of anomalous seqs after ap clustering: 3
+2025-06-03 12:43:19,627 [INFO]: The number of anomalous clusters: 3
+2025-06-03 12:43:19,631 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:19,632 [INFO]: precision: 0.615, recall: 0.889, f1: 0.727
+2025-06-03 12:43:19,636 [INFO]: Experiment result plotted!
+2025-06-03 12:43:19,890 [INFO]: ============================================================
+2025-06-03 12:43:19,890 [INFO]: Dataset: cpu_usage (metric cpu_usage_50), m: 5, p: 99
+2025-06-03 12:43:19,899 [INFO]: The number of anomalous seqs: 5
+2025-06-03 12:43:19,918 [INFO]: The number of anomalous seqs after ap clustering: 4
+2025-06-03 12:43:19,918 [INFO]: The number of anomalous clusters: 4
+2025-06-03 12:43:19,922 [INFO]: Metric patterns dumped.
+2025-06-03 12:43:19,924 [INFO]: precision: 0.750, recall: 1.000, f1: 0.857
+2025-06-03 12:43:19,930 [INFO]: Experiment result plotted!
+2025-06-03 12:43:20,192 [INFO]: ^^^^^^^^^^^^^^^ Experimental results of CPU Usage dataset ^^^^^^^^^^^^^^^
+2025-06-03 12:43:20,192 [INFO]: precision: 0.516, recall: 0.756, f1: 0.602
+2025-06-06 19:52:53,992 [INFO]: ^^^^^^^^^^^^^^^ Offline anomaly detection for CPU Usage dataset ^^^^^^^^^^^^^^^
+2025-06-06 19:52:55,471 [INFO]: ============================================================
+2025-06-06 19:52:55,471 [INFO]: Dataset: cpu_usage (metric cpu_usage_1), m: 5, p: 99
+2025-06-06 19:53:06,097 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:53:06,264 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:53:06,266 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:53:06,271 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:06,274 [INFO]: precision: 0.400, recall: 0.500, f1: 0.444
+2025-06-06 19:53:07,207 [INFO]: Experiment result plotted!
+2025-06-06 19:53:07,682 [INFO]: ============================================================
+2025-06-06 19:53:07,682 [INFO]: Dataset: cpu_usage (metric cpu_usage_2), m: 5, p: 99
+2025-06-06 19:53:07,703 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:53:07,799 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-06 19:53:07,799 [INFO]: The number of anomalous clusters: 7
+2025-06-06 19:53:07,807 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:07,811 [INFO]: precision: 0.533, recall: 0.727, f1: 0.615
+2025-06-06 19:53:07,827 [INFO]: Experiment result plotted!
+2025-06-06 19:53:08,135 [INFO]: ============================================================
+2025-06-06 19:53:08,135 [INFO]: Dataset: cpu_usage (metric cpu_usage_3), m: 5, p: 99
+2025-06-06 19:53:08,146 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:53:08,170 [INFO]: The number of anomalous seqs after ap clustering: 0
+2025-06-06 19:53:08,170 [INFO]: The number of anomalous clusters: 0
+2025-06-06 19:53:08,176 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:08,177 [INFO]: No anomalous patterns detected!
+2025-06-06 19:53:08,177 [INFO]: precision: 0.000, recall: 0.000, f1: 0.000
+2025-06-06 19:53:08,181 [INFO]: Experiment result plotted!
+2025-06-06 19:53:08,561 [INFO]: ============================================================
+2025-06-06 19:53:08,561 [INFO]: Dataset: cpu_usage (metric cpu_usage_4), m: 5, p: 99
+2025-06-06 19:53:08,571 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:53:08,603 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-06 19:53:08,606 [INFO]: The number of anomalous clusters: 7
+2025-06-06 19:53:08,611 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:08,611 [INFO]: precision: 0.533, recall: 1.000, f1: 0.696
+2025-06-06 19:53:08,621 [INFO]: Experiment result plotted!
+2025-06-06 19:53:08,917 [INFO]: ============================================================
+2025-06-06 19:53:08,917 [INFO]: Dataset: cpu_usage (metric cpu_usage_5), m: 5, p: 99
+2025-06-06 19:53:08,927 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:53:08,989 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:53:08,990 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:53:08,990 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:08,997 [INFO]: precision: 0.400, recall: 1.000, f1: 0.571
+2025-06-06 19:53:09,009 [INFO]: Experiment result plotted!
+2025-06-06 19:53:09,302 [INFO]: ============================================================
+2025-06-06 19:53:09,302 [INFO]: Dataset: cpu_usage (metric cpu_usage_6), m: 5, p: 99
+2025-06-06 19:53:09,307 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:53:09,341 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-06 19:53:09,343 [INFO]: The number of anomalous clusters: 3
+2025-06-06 19:53:09,349 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:09,360 [INFO]: precision: 0.533, recall: 1.000, f1: 0.696
+2025-06-06 19:53:09,383 [INFO]: Experiment result plotted!
+2025-06-06 19:53:09,777 [INFO]: ============================================================
+2025-06-06 19:53:09,777 [INFO]: Dataset: cpu_usage (metric cpu_usage_7), m: 5, p: 99
+2025-06-06 19:53:09,787 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:53:09,817 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:53:09,819 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:53:09,823 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:09,825 [INFO]: precision: 0.429, recall: 1.000, f1: 0.600
+2025-06-06 19:53:09,827 [INFO]: Experiment result plotted!
+2025-06-06 19:53:10,132 [INFO]: ============================================================
+2025-06-06 19:53:10,132 [INFO]: Dataset: cpu_usage (metric cpu_usage_8), m: 5, p: 99
+2025-06-06 19:53:10,138 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:53:10,177 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:53:10,177 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:53:10,177 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:10,187 [INFO]: precision: 0.571, recall: 1.000, f1: 0.727
+2025-06-06 19:53:10,191 [INFO]: Experiment result plotted!
+2025-06-06 19:53:10,667 [INFO]: ============================================================
+2025-06-06 19:53:10,667 [INFO]: Dataset: cpu_usage (metric cpu_usage_9), m: 5, p: 99
+2025-06-06 19:53:10,686 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:53:10,717 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-06 19:53:10,717 [INFO]: The number of anomalous clusters: 5
+2025-06-06 19:53:10,727 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:10,731 [INFO]: precision: 0.600, recall: 1.000, f1: 0.750
+2025-06-06 19:53:10,749 [INFO]: Experiment result plotted!
+2025-06-06 19:53:11,074 [INFO]: ============================================================
+2025-06-06 19:53:11,074 [INFO]: Dataset: cpu_usage (metric cpu_usage_10), m: 5, p: 99
+2025-06-06 19:53:11,087 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:53:11,117 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-06 19:53:11,117 [INFO]: The number of anomalous clusters: 7
+2025-06-06 19:53:11,125 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:11,127 [INFO]: precision: 0.667, recall: 0.556, f1: 0.606
+2025-06-06 19:53:11,139 [INFO]: Experiment result plotted!
+2025-06-06 19:53:11,513 [INFO]: ============================================================
+2025-06-06 19:53:11,513 [INFO]: Dataset: cpu_usage (metric cpu_usage_11), m: 5, p: 99
+2025-06-06 19:53:11,523 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:53:11,589 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-06 19:53:11,589 [INFO]: The number of anomalous clusters: 7
+2025-06-06 19:53:11,600 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:11,600 [INFO]: precision: 0.273, recall: 0.429, f1: 0.333
+2025-06-06 19:53:11,607 [INFO]: Experiment result plotted!
+2025-06-06 19:53:11,917 [INFO]: ============================================================
+2025-06-06 19:53:11,917 [INFO]: Dataset: cpu_usage (metric cpu_usage_12), m: 5, p: 99
+2025-06-06 19:53:11,927 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:53:11,951 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:53:11,951 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:53:11,957 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:11,962 [INFO]: precision: 0.722, recall: 1.000, f1: 0.839
+2025-06-06 19:53:11,969 [INFO]: Experiment result plotted!
+2025-06-06 19:53:12,317 [INFO]: ============================================================
+2025-06-06 19:53:12,317 [INFO]: Dataset: cpu_usage (metric cpu_usage_13), m: 5, p: 99
+2025-06-06 19:53:12,330 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:53:12,384 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-06 19:53:12,387 [INFO]: The number of anomalous clusters: 7
+2025-06-06 19:53:12,395 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:12,399 [INFO]: precision: 0.500, recall: 1.000, f1: 0.667
+2025-06-06 19:53:12,419 [INFO]: Experiment result plotted!
+2025-06-06 19:53:12,741 [INFO]: ============================================================
+2025-06-06 19:53:12,741 [INFO]: Dataset: cpu_usage (metric cpu_usage_14), m: 5, p: 99
+2025-06-06 19:53:12,747 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:53:12,791 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:53:12,793 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:53:12,797 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:12,799 [INFO]: precision: 0.778, recall: 1.000, f1: 0.875
+2025-06-06 19:53:12,807 [INFO]: Experiment result plotted!
+2025-06-06 19:53:13,163 [INFO]: ============================================================
+2025-06-06 19:53:13,165 [INFO]: Dataset: cpu_usage (metric cpu_usage_15), m: 5, p: 99
+2025-06-06 19:53:13,167 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:53:13,191 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:53:13,193 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:53:13,197 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:13,199 [INFO]: precision: 0.455, recall: 0.556, f1: 0.500
+2025-06-06 19:53:13,209 [INFO]: Experiment result plotted!
+2025-06-06 19:53:13,517 [INFO]: ============================================================
+2025-06-06 19:53:13,517 [INFO]: Dataset: cpu_usage (metric cpu_usage_16), m: 5, p: 99
+2025-06-06 19:53:13,532 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:53:13,552 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:53:13,552 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:53:13,557 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:13,559 [INFO]: precision: 0.400, recall: 0.571, f1: 0.471
+2025-06-06 19:53:13,569 [INFO]: Experiment result plotted!
+2025-06-06 19:53:14,072 [INFO]: ============================================================
+2025-06-06 19:53:14,072 [INFO]: Dataset: cpu_usage (metric cpu_usage_17), m: 5, p: 99
+2025-06-06 19:53:14,107 [INFO]: The number of anomalous seqs: 5
+2025-06-06 19:53:14,186 [INFO]: The number of anomalous seqs after ap clustering: 4
+2025-06-06 19:53:14,187 [INFO]: The number of anomalous clusters: 3
+2025-06-06 19:53:14,202 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:14,209 [INFO]: precision: 0.500, recall: 0.667, f1: 0.571
+2025-06-06 19:53:14,240 [INFO]: Experiment result plotted!
+2025-06-06 19:53:14,852 [INFO]: ============================================================
+2025-06-06 19:53:14,852 [INFO]: Dataset: cpu_usage (metric cpu_usage_18), m: 5, p: 99
+2025-06-06 19:53:14,863 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:53:14,879 [INFO]: The number of anomalous seqs after ap clustering: 2
+2025-06-06 19:53:14,879 [INFO]: The number of anomalous clusters: 2
+2025-06-06 19:53:14,883 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:14,885 [INFO]: precision: 0.375, recall: 0.429, f1: 0.400
+2025-06-06 19:53:14,889 [INFO]: Experiment result plotted!
+2025-06-06 19:53:15,282 [INFO]: ============================================================
+2025-06-06 19:53:15,282 [INFO]: Dataset: cpu_usage (metric cpu_usage_19), m: 5, p: 99
+2025-06-06 19:53:15,295 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:53:15,325 [INFO]: The number of anomalous seqs after ap clustering: 0
+2025-06-06 19:53:15,325 [INFO]: The number of anomalous clusters: 0
+2025-06-06 19:53:15,327 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:15,327 [INFO]: No anomalous patterns detected!
+2025-06-06 19:53:15,327 [INFO]: precision: 1.000, recall: 1.000, f1: 1.000
+2025-06-06 19:53:15,334 [INFO]: Experiment result plotted!
+2025-06-06 19:53:15,690 [INFO]: ============================================================
+2025-06-06 19:53:15,690 [INFO]: Dataset: cpu_usage (metric cpu_usage_20), m: 5, p: 99
+2025-06-06 19:53:15,700 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:53:15,727 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:53:15,727 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:53:15,741 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:15,741 [INFO]: precision: 0.500, recall: 0.625, f1: 0.556
+2025-06-06 19:53:15,761 [INFO]: Experiment result plotted!
+2025-06-06 19:53:16,227 [INFO]: ============================================================
+2025-06-06 19:53:16,227 [INFO]: Dataset: cpu_usage (metric cpu_usage_21), m: 5, p: 99
+2025-06-06 19:53:16,247 [INFO]: The number of anomalous seqs: 5
+2025-06-06 19:53:16,279 [INFO]: The number of anomalous seqs after ap clustering: 5
+2025-06-06 19:53:16,281 [INFO]: The number of anomalous clusters: 5
+2025-06-06 19:53:16,292 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:16,296 [INFO]: precision: 0.556, recall: 1.000, f1: 0.714
+2025-06-06 19:53:16,309 [INFO]: Experiment result plotted!
+2025-06-06 19:53:16,748 [INFO]: ============================================================
+2025-06-06 19:53:16,752 [INFO]: Dataset: cpu_usage (metric cpu_usage_22), m: 5, p: 99
+2025-06-06 19:53:16,759 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:53:16,797 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:53:16,798 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:53:16,806 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:16,815 [INFO]: precision: 0.500, recall: 0.700, f1: 0.583
+2025-06-06 19:53:16,831 [INFO]: Experiment result plotted!
+2025-06-06 19:53:17,272 [INFO]: ============================================================
+2025-06-06 19:53:17,277 [INFO]: Dataset: cpu_usage (metric cpu_usage_23), m: 5, p: 99
+2025-06-06 19:53:17,288 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:53:17,311 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-06 19:53:17,313 [INFO]: The number of anomalous clusters: 7
+2025-06-06 19:53:17,319 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:17,322 [INFO]: precision: 0.455, recall: 0.625, f1: 0.526
+2025-06-06 19:53:17,331 [INFO]: Experiment result plotted!
+2025-06-06 19:53:17,924 [INFO]: ============================================================
+2025-06-06 19:53:17,927 [INFO]: Dataset: cpu_usage (metric cpu_usage_24), m: 5, p: 99
+2025-06-06 19:53:17,994 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:53:18,102 [INFO]: The number of anomalous seqs after ap clustering: 5
+2025-06-06 19:53:18,107 [INFO]: The number of anomalous clusters: 5
+2025-06-06 19:53:18,124 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:18,132 [INFO]: precision: 0.333, recall: 0.429, f1: 0.375
+2025-06-06 19:53:18,165 [INFO]: Experiment result plotted!
+2025-06-06 19:53:18,657 [INFO]: ============================================================
+2025-06-06 19:53:18,657 [INFO]: Dataset: cpu_usage (metric cpu_usage_25), m: 5, p: 99
+2025-06-06 19:53:18,671 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:53:18,705 [INFO]: The number of anomalous seqs after ap clustering: 4
+2025-06-06 19:53:18,705 [INFO]: The number of anomalous clusters: 4
+2025-06-06 19:53:18,712 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:18,716 [INFO]: precision: 0.333, recall: 1.000, f1: 0.500
+2025-06-06 19:53:18,729 [INFO]: Experiment result plotted!
+2025-06-06 19:53:19,497 [INFO]: ============================================================
+2025-06-06 19:53:19,497 [INFO]: Dataset: cpu_usage (metric cpu_usage_26), m: 5, p: 99
+2025-06-06 19:53:19,511 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:53:19,539 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:53:19,541 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:53:19,547 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:19,551 [INFO]: precision: 0.571, recall: 1.000, f1: 0.727
+2025-06-06 19:53:19,565 [INFO]: Experiment result plotted!
+2025-06-06 19:53:20,192 [INFO]: ============================================================
+2025-06-06 19:53:20,198 [INFO]: Dataset: cpu_usage (metric cpu_usage_27), m: 5, p: 99
+2025-06-06 19:53:20,223 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:53:20,339 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-06 19:53:20,341 [INFO]: The number of anomalous clusters: 3
+2025-06-06 19:53:20,349 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:20,351 [INFO]: precision: 0.533, recall: 0.615, f1: 0.571
+2025-06-06 19:53:20,378 [INFO]: Experiment result plotted!
+2025-06-06 19:53:20,673 [INFO]: ============================================================
+2025-06-06 19:53:20,673 [INFO]: Dataset: cpu_usage (metric cpu_usage_28), m: 5, p: 99
+2025-06-06 19:53:20,683 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:53:20,707 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-06 19:53:20,710 [INFO]: The number of anomalous clusters: 7
+2025-06-06 19:53:20,714 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:20,717 [INFO]: precision: 0.375, recall: 0.600, f1: 0.462
+2025-06-06 19:53:20,728 [INFO]: Experiment result plotted!
+2025-06-06 19:53:21,189 [INFO]: ============================================================
+2025-06-06 19:53:21,191 [INFO]: Dataset: cpu_usage (metric cpu_usage_29), m: 5, p: 99
+2025-06-06 19:53:21,207 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:53:21,302 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:53:21,302 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:53:21,325 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:21,333 [INFO]: precision: 0.643, recall: 0.750, f1: 0.692
+2025-06-06 19:53:21,360 [INFO]: Experiment result plotted!
+2025-06-06 19:53:21,923 [INFO]: ============================================================
+2025-06-06 19:53:21,923 [INFO]: Dataset: cpu_usage (metric cpu_usage_30), m: 5, p: 99
+2025-06-06 19:53:21,960 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:53:22,060 [INFO]: The number of anomalous seqs after ap clustering: 5
+2025-06-06 19:53:22,062 [INFO]: The number of anomalous clusters: 5
+2025-06-06 19:53:22,079 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:22,092 [INFO]: precision: 0.333, recall: 0.375, f1: 0.353
+2025-06-06 19:53:22,114 [INFO]: Experiment result plotted!
+2025-06-06 19:53:22,567 [INFO]: ============================================================
+2025-06-06 19:53:22,567 [INFO]: Dataset: cpu_usage (metric cpu_usage_31), m: 5, p: 99
+2025-06-06 19:53:22,591 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:53:22,686 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-06 19:53:22,687 [INFO]: The number of anomalous clusters: 7
+2025-06-06 19:53:22,697 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:22,705 [INFO]: precision: 0.455, recall: 0.357, f1: 0.400
+2025-06-06 19:53:22,729 [INFO]: Experiment result plotted!
+2025-06-06 19:53:23,108 [INFO]: ============================================================
+2025-06-06 19:53:23,108 [INFO]: Dataset: cpu_usage (metric cpu_usage_32), m: 5, p: 99
+2025-06-06 19:53:23,117 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:53:23,137 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:53:23,137 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:53:23,137 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:23,148 [INFO]: precision: 0.714, recall: 1.000, f1: 0.833
+2025-06-06 19:53:23,155 [INFO]: Experiment result plotted!
+2025-06-06 19:53:23,498 [INFO]: ============================================================
+2025-06-06 19:53:23,498 [INFO]: Dataset: cpu_usage (metric cpu_usage_33), m: 5, p: 99
+2025-06-06 19:53:23,513 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:53:23,527 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:53:23,527 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:53:23,527 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:23,527 [INFO]: precision: 0.500, recall: 0.556, f1: 0.526
+2025-06-06 19:53:23,540 [INFO]: Experiment result plotted!
+2025-06-06 19:53:23,847 [INFO]: ============================================================
+2025-06-06 19:53:23,847 [INFO]: Dataset: cpu_usage (metric cpu_usage_34), m: 5, p: 99
+2025-06-06 19:53:23,861 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:53:23,883 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:53:23,883 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:53:23,888 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:23,890 [INFO]: precision: 0.714, recall: 0.667, f1: 0.690
+2025-06-06 19:53:23,897 [INFO]: Experiment result plotted!
+2025-06-06 19:53:24,248 [INFO]: ============================================================
+2025-06-06 19:53:24,248 [INFO]: Dataset: cpu_usage (metric cpu_usage_35), m: 5, p: 99
+2025-06-06 19:53:24,258 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:53:24,302 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:53:24,304 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:53:24,310 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:24,313 [INFO]: precision: 0.300, recall: 0.250, f1: 0.273
+2025-06-06 19:53:24,325 [INFO]: Experiment result plotted!
+2025-06-06 19:53:24,732 [INFO]: ============================================================
+2025-06-06 19:53:24,732 [INFO]: Dataset: cpu_usage (metric cpu_usage_36), m: 5, p: 99
+2025-06-06 19:53:24,747 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:53:24,817 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:53:24,817 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:53:24,826 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:24,830 [INFO]: precision: 0.429, recall: 1.000, f1: 0.600
+2025-06-06 19:53:24,839 [INFO]: Experiment result plotted!
+2025-06-06 19:53:25,176 [INFO]: ============================================================
+2025-06-06 19:53:25,178 [INFO]: Dataset: cpu_usage (metric cpu_usage_37), m: 5, p: 99
+2025-06-06 19:53:25,231 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:53:25,506 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-06 19:53:25,510 [INFO]: The number of anomalous clusters: 7
+2025-06-06 19:53:25,547 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:25,562 [INFO]: precision: 0.533, recall: 1.000, f1: 0.696
+2025-06-06 19:53:25,612 [INFO]: Experiment result plotted!
+2025-06-06 19:53:26,045 [INFO]: ============================================================
+2025-06-06 19:53:26,046 [INFO]: Dataset: cpu_usage (metric cpu_usage_38), m: 5, p: 99
+2025-06-06 19:53:26,072 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:53:26,187 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:53:26,190 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:53:26,242 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:26,276 [INFO]: precision: 0.643, recall: 0.692, f1: 0.667
+2025-06-06 19:53:26,328 [INFO]: Experiment result plotted!
+2025-06-06 19:53:26,882 [INFO]: ============================================================
+2025-06-06 19:53:26,884 [INFO]: Dataset: cpu_usage (metric cpu_usage_39), m: 5, p: 99
+2025-06-06 19:53:26,920 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:53:27,085 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:53:27,085 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:53:27,102 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:27,112 [INFO]: precision: 0.571, recall: 0.727, f1: 0.640
+2025-06-06 19:53:27,142 [INFO]: Experiment result plotted!
+2025-06-06 19:53:27,465 [INFO]: ============================================================
+2025-06-06 19:53:27,468 [INFO]: Dataset: cpu_usage (metric cpu_usage_40), m: 5, p: 99
+2025-06-06 19:53:27,468 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:53:27,507 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-06 19:53:27,509 [INFO]: The number of anomalous clusters: 7
+2025-06-06 19:53:27,512 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:27,512 [INFO]: precision: 0.467, recall: 1.000, f1: 0.636
+2025-06-06 19:53:27,522 [INFO]: Experiment result plotted!
+2025-06-06 19:53:27,863 [INFO]: ============================================================
+2025-06-06 19:53:27,863 [INFO]: Dataset: cpu_usage (metric cpu_usage_41), m: 5, p: 99
+2025-06-06 19:53:27,868 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:53:27,897 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:53:27,897 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:53:27,903 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:27,906 [INFO]: precision: 0.722, recall: 1.000, f1: 0.839
+2025-06-06 19:53:27,907 [INFO]: Experiment result plotted!
+2025-06-06 19:53:28,218 [INFO]: ============================================================
+2025-06-06 19:53:28,218 [INFO]: Dataset: cpu_usage (metric cpu_usage_42), m: 5, p: 99
+2025-06-06 19:53:28,232 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:53:28,254 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:53:28,256 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:53:28,259 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:28,265 [INFO]: precision: 0.500, recall: 0.583, f1: 0.538
+2025-06-06 19:53:28,278 [INFO]: Experiment result plotted!
+2025-06-06 19:53:28,624 [INFO]: ============================================================
+2025-06-06 19:53:28,628 [INFO]: Dataset: cpu_usage (metric cpu_usage_43), m: 5, p: 99
+2025-06-06 19:53:28,640 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:53:28,662 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-06 19:53:28,662 [INFO]: The number of anomalous clusters: 5
+2025-06-06 19:53:28,668 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:28,670 [INFO]: precision: 0.600, recall: 1.000, f1: 0.750
+2025-06-06 19:53:28,678 [INFO]: Experiment result plotted!
+2025-06-06 19:53:28,998 [INFO]: ============================================================
+2025-06-06 19:53:28,998 [INFO]: Dataset: cpu_usage (metric cpu_usage_44), m: 5, p: 99
+2025-06-06 19:53:29,007 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:53:29,025 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:53:29,027 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:53:29,028 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:29,028 [INFO]: precision: 0.571, recall: 0.571, f1: 0.571
+2025-06-06 19:53:29,038 [INFO]: Experiment result plotted!
+2025-06-06 19:53:29,393 [INFO]: ============================================================
+2025-06-06 19:53:29,393 [INFO]: Dataset: cpu_usage (metric cpu_usage_45), m: 5, p: 99
+2025-06-06 19:53:29,401 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:53:29,424 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-06 19:53:29,424 [INFO]: The number of anomalous clusters: 7
+2025-06-06 19:53:29,430 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:29,432 [INFO]: precision: 0.667, recall: 1.000, f1: 0.800
+2025-06-06 19:53:29,440 [INFO]: Experiment result plotted!
+2025-06-06 19:53:29,778 [INFO]: ============================================================
+2025-06-06 19:53:29,778 [INFO]: Dataset: cpu_usage (metric cpu_usage_46), m: 5, p: 99
+2025-06-06 19:53:29,791 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:53:29,812 [INFO]: The number of anomalous seqs after ap clustering: 4
+2025-06-06 19:53:29,812 [INFO]: The number of anomalous clusters: 4
+2025-06-06 19:53:29,816 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:29,818 [INFO]: precision: 0.333, recall: 0.364, f1: 0.348
+2025-06-06 19:53:29,827 [INFO]: Experiment result plotted!
+2025-06-06 19:53:30,190 [INFO]: ============================================================
+2025-06-06 19:53:30,190 [INFO]: Dataset: cpu_usage (metric cpu_usage_47), m: 5, p: 99
+2025-06-06 19:53:30,204 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:53:30,227 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:53:30,227 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:53:30,227 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:30,227 [INFO]: precision: 0.429, recall: 1.000, f1: 0.600
+2025-06-06 19:53:30,238 [INFO]: Experiment result plotted!
+2025-06-06 19:53:30,548 [INFO]: ============================================================
+2025-06-06 19:53:30,548 [INFO]: Dataset: cpu_usage (metric cpu_usage_48), m: 5, p: 99
+2025-06-06 19:53:30,560 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:53:30,582 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-06 19:53:30,582 [INFO]: The number of anomalous clusters: 7
+2025-06-06 19:53:30,588 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:30,590 [INFO]: precision: 0.500, recall: 1.000, f1: 0.667
+2025-06-06 19:53:30,598 [INFO]: Experiment result plotted!
+2025-06-06 19:53:30,903 [INFO]: ============================================================
+2025-06-06 19:53:30,903 [INFO]: Dataset: cpu_usage (metric cpu_usage_49), m: 5, p: 99
+2025-06-06 19:53:30,911 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:53:30,927 [INFO]: The number of anomalous seqs after ap clustering: 3
+2025-06-06 19:53:30,927 [INFO]: The number of anomalous clusters: 3
+2025-06-06 19:53:30,927 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:30,927 [INFO]: precision: 0.615, recall: 0.889, f1: 0.727
+2025-06-06 19:53:30,940 [INFO]: Experiment result plotted!
+2025-06-06 19:53:31,283 [INFO]: ============================================================
+2025-06-06 19:53:31,283 [INFO]: Dataset: cpu_usage (metric cpu_usage_50), m: 5, p: 99
+2025-06-06 19:53:31,298 [INFO]: The number of anomalous seqs: 5
+2025-06-06 19:53:31,370 [INFO]: The number of anomalous seqs after ap clustering: 4
+2025-06-06 19:53:31,385 [INFO]: The number of anomalous clusters: 4
+2025-06-06 19:53:31,432 [INFO]: Metric patterns dumped.
+2025-06-06 19:53:31,455 [INFO]: precision: 0.750, recall: 1.000, f1: 0.857
+2025-06-06 19:53:31,495 [INFO]: Experiment result plotted!
+2025-06-06 19:53:31,881 [INFO]: ^^^^^^^^^^^^^^^ Experimental results of CPU Usage dataset ^^^^^^^^^^^^^^^
+2025-06-06 19:53:31,888 [INFO]: precision: 0.516, recall: 0.756, f1: 0.602

@@ -1,0 +1,806 @@
+2025-06-03 12:08:55,752 [INFO]: ^^^^^^^^^^^^^^^ Offline anomaly detection for Error Rate dataset ^^^^^^^^^^^^^^^
+2025-06-03 12:08:56,334 [INFO]: ============================================================
+2025-06-03 12:08:56,334 [INFO]: Dataset: error_rate (metric error_rate_1), m: 5, p: 99
+2025-06-03 12:09:04,312 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:09:04,352 [INFO]: The number of anomalous seqs after ap clustering: 5
+2025-06-03 12:09:04,352 [INFO]: The number of anomalous clusters: 5
+2025-06-03 12:09:04,356 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:04,361 [INFO]: precision: 0.273, recall: 1.000, f1: 0.429
+2025-06-03 12:09:04,464 [INFO]: Experiment result plotted!
+2025-06-03 12:09:04,712 [INFO]: ============================================================
+2025-06-03 12:09:04,712 [INFO]: Dataset: error_rate (metric error_rate_2), m: 5, p: 99
+2025-06-03 12:09:04,724 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:09:04,763 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-03 12:09:04,763 [INFO]: The number of anomalous clusters: 7
+2025-06-03 12:09:04,769 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:04,772 [INFO]: precision: 0.364, recall: 1.000, f1: 0.533
+2025-06-03 12:09:04,783 [INFO]: Experiment result plotted!
+2025-06-03 12:09:05,031 [INFO]: ============================================================
+2025-06-03 12:09:05,031 [INFO]: Dataset: error_rate (metric error_rate_3), m: 5, p: 99
+2025-06-03 12:09:05,047 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:09:05,068 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:09:05,069 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:09:05,074 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:05,076 [INFO]: precision: 0.500, recall: 1.000, f1: 0.667
+2025-06-03 12:09:05,081 [INFO]: Experiment result plotted!
+2025-06-03 12:09:05,329 [INFO]: ============================================================
+2025-06-03 12:09:05,329 [INFO]: Dataset: error_rate (metric error_rate_4), m: 5, p: 99
+2025-06-03 12:09:05,346 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:09:05,365 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:09:05,365 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:09:05,372 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:05,374 [INFO]: precision: 0.500, recall: 1.000, f1: 0.667
+2025-06-03 12:09:05,381 [INFO]: Experiment result plotted!
+2025-06-03 12:09:05,613 [INFO]: ============================================================
+2025-06-03 12:09:05,613 [INFO]: Dataset: error_rate (metric error_rate_5), m: 5, p: 99
+2025-06-03 12:09:05,631 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:09:05,652 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:09:05,653 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:09:05,657 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:05,660 [INFO]: precision: 0.500, recall: 0.556, f1: 0.526
+2025-06-03 12:09:05,664 [INFO]: Experiment result plotted!
+2025-06-03 12:09:05,912 [INFO]: ============================================================
+2025-06-03 12:09:05,912 [INFO]: Dataset: error_rate (metric error_rate_6), m: 5, p: 99
+2025-06-03 12:09:05,919 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:09:05,942 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-03 12:09:05,942 [INFO]: The number of anomalous clusters: 7
+2025-06-03 12:09:05,945 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:05,950 [INFO]: precision: 0.467, recall: 1.000, f1: 0.636
+2025-06-03 12:09:05,957 [INFO]: Experiment result plotted!
+2025-06-03 12:09:06,194 [INFO]: ============================================================
+2025-06-03 12:09:06,194 [INFO]: Dataset: error_rate (metric error_rate_7), m: 5, p: 99
+2025-06-03 12:09:06,211 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:09:06,252 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:09:06,253 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:09:06,258 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:06,263 [INFO]: precision: 0.273, recall: 1.000, f1: 0.429
+2025-06-03 12:09:06,271 [INFO]: Experiment result plotted!
+2025-06-03 12:09:06,499 [INFO]: ============================================================
+2025-06-03 12:09:06,499 [INFO]: Dataset: error_rate (metric error_rate_8), m: 5, p: 99
+2025-06-03 12:09:06,514 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:09:06,542 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-03 12:09:06,544 [INFO]: The number of anomalous clusters: 7
+2025-06-03 12:09:06,548 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:06,550 [INFO]: precision: 0.467, recall: 0.700, f1: 0.560
+2025-06-03 12:09:06,559 [INFO]: Experiment result plotted!
+2025-06-03 12:09:06,795 [INFO]: ============================================================
+2025-06-03 12:09:06,795 [INFO]: Dataset: error_rate (metric error_rate_9), m: 5, p: 99
+2025-06-03 12:09:06,812 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:09:06,835 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:09:06,835 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:09:06,840 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:06,841 [INFO]: precision: 0.500, recall: 1.000, f1: 0.667
+2025-06-03 12:09:06,841 [INFO]: Experiment result plotted!
+2025-06-03 12:09:07,093 [INFO]: ============================================================
+2025-06-03 12:09:07,094 [INFO]: Dataset: error_rate (metric error_rate_10), m: 5, p: 99
+2025-06-03 12:09:07,103 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:09:07,123 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-03 12:09:07,124 [INFO]: The number of anomalous clusters: 7
+2025-06-03 12:09:07,128 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:07,130 [INFO]: precision: 0.600, recall: 1.000, f1: 0.750
+2025-06-03 12:09:07,138 [INFO]: Experiment result plotted!
+2025-06-03 12:09:07,394 [INFO]: ============================================================
+2025-06-03 12:09:07,394 [INFO]: Dataset: error_rate (metric error_rate_11), m: 5, p: 99
+2025-06-03 12:09:07,416 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:09:07,440 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:09:07,441 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:09:07,446 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:07,448 [INFO]: precision: 0.667, recall: 1.000, f1: 0.800
+2025-06-03 12:09:07,457 [INFO]: Experiment result plotted!
+2025-06-03 12:09:07,698 [INFO]: ============================================================
+2025-06-03 12:09:07,698 [INFO]: Dataset: error_rate (metric error_rate_12), m: 5, p: 99
+2025-06-03 12:09:07,698 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:09:07,731 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-03 12:09:07,731 [INFO]: The number of anomalous clusters: 7
+2025-06-03 12:09:07,737 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:07,739 [INFO]: precision: 0.600, recall: 1.000, f1: 0.750
+2025-06-03 12:09:07,744 [INFO]: Experiment result plotted!
+2025-06-03 12:09:07,995 [INFO]: ============================================================
+2025-06-03 12:09:07,995 [INFO]: Dataset: error_rate (metric error_rate_13), m: 5, p: 99
+2025-06-03 12:09:07,995 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:09:08,035 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-03 12:09:08,035 [INFO]: The number of anomalous clusters: 7
+2025-06-03 12:09:08,038 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:08,044 [INFO]: precision: 0.467, recall: 0.636, f1: 0.538
+2025-06-03 12:09:08,050 [INFO]: Experiment result plotted!
+2025-06-03 12:09:08,391 [INFO]: ============================================================
+2025-06-03 12:09:08,407 [INFO]: Dataset: error_rate (metric error_rate_14), m: 5, p: 99
+2025-06-03 12:09:08,407 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:09:08,433 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-03 12:09:08,433 [INFO]: The number of anomalous clusters: 7
+2025-06-03 12:09:08,435 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:08,440 [INFO]: precision: 0.600, recall: 1.000, f1: 0.750
+2025-06-03 12:09:08,445 [INFO]: Experiment result plotted!
+2025-06-03 12:09:08,685 [INFO]: ============================================================
+2025-06-03 12:09:08,685 [INFO]: Dataset: error_rate (metric error_rate_15), m: 5, p: 99
+2025-06-03 12:09:08,707 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:09:08,727 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-03 12:09:08,727 [INFO]: The number of anomalous clusters: 7
+2025-06-03 12:09:08,732 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:08,735 [INFO]: precision: 0.562, recall: 1.000, f1: 0.720
+2025-06-03 12:09:08,741 [INFO]: Experiment result plotted!
+2025-06-03 12:09:08,962 [INFO]: ============================================================
+2025-06-03 12:09:08,962 [INFO]: Dataset: error_rate (metric error_rate_16), m: 5, p: 99
+2025-06-03 12:09:08,980 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:09:08,992 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:09:08,992 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:09:08,992 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:08,992 [INFO]: precision: 0.643, recall: 1.000, f1: 0.783
+2025-06-03 12:09:09,008 [INFO]: Experiment result plotted!
+2025-06-03 12:09:09,251 [INFO]: ============================================================
+2025-06-03 12:09:09,251 [INFO]: Dataset: error_rate (metric error_rate_17), m: 5, p: 99
+2025-06-03 12:09:09,251 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:09:09,272 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:09:09,272 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:09:09,285 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:09,287 [INFO]: precision: 0.500, recall: 0.556, f1: 0.526
+2025-06-03 12:09:09,293 [INFO]: Experiment result plotted!
+2025-06-03 12:09:09,546 [INFO]: ============================================================
+2025-06-03 12:09:09,546 [INFO]: Dataset: error_rate (metric error_rate_18), m: 5, p: 99
+2025-06-03 12:09:09,562 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:09:09,586 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:09:09,586 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:09:09,590 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:09,592 [INFO]: precision: 0.571, recall: 0.667, f1: 0.615
+2025-06-03 12:09:09,599 [INFO]: Experiment result plotted!
+2025-06-03 12:09:09,831 [INFO]: ============================================================
+2025-06-03 12:09:09,831 [INFO]: Dataset: error_rate (metric error_rate_19), m: 5, p: 99
+2025-06-03 12:09:09,853 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:09:09,873 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:09:09,874 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:09:09,875 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:09,875 [INFO]: precision: 0.571, recall: 1.000, f1: 0.727
+2025-06-03 12:09:09,886 [INFO]: Experiment result plotted!
+2025-06-03 12:09:10,129 [INFO]: ============================================================
+2025-06-03 12:09:10,129 [INFO]: Dataset: error_rate (metric error_rate_20), m: 5, p: 99
+2025-06-03 12:09:10,146 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:09:10,187 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:09:10,188 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:09:10,193 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:10,196 [INFO]: precision: 0.714, recall: 0.769, f1: 0.741
+2025-06-03 12:09:10,203 [INFO]: Experiment result plotted!
+2025-06-03 12:09:10,445 [INFO]: ============================================================
+2025-06-03 12:09:10,445 [INFO]: Dataset: error_rate (metric error_rate_21), m: 5, p: 99
+2025-06-03 12:09:10,465 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:09:10,509 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:09:10,509 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:09:10,509 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:10,519 [INFO]: precision: 0.571, recall: 1.000, f1: 0.727
+2025-06-03 12:09:10,523 [INFO]: Experiment result plotted!
+2025-06-03 12:09:10,763 [INFO]: ============================================================
+2025-06-03 12:09:10,763 [INFO]: Dataset: error_rate (metric error_rate_22), m: 5, p: 99
+2025-06-03 12:09:10,783 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:09:10,806 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:09:10,807 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:09:10,809 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:10,814 [INFO]: precision: 0.667, recall: 1.000, f1: 0.800
+2025-06-03 12:09:10,821 [INFO]: Experiment result plotted!
+2025-06-03 12:09:11,078 [INFO]: ============================================================
+2025-06-03 12:09:11,079 [INFO]: Dataset: error_rate (metric error_rate_23), m: 5, p: 99
+2025-06-03 12:09:11,092 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:09:11,113 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-03 12:09:11,115 [INFO]: The number of anomalous clusters: 7
+2025-06-03 12:09:11,121 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:11,124 [INFO]: precision: 0.600, recall: 0.643, f1: 0.621
+2025-06-03 12:09:11,129 [INFO]: Experiment result plotted!
+2025-06-03 12:09:11,393 [INFO]: ============================================================
+2025-06-03 12:09:11,394 [INFO]: Dataset: error_rate (metric error_rate_24), m: 5, p: 99
+2025-06-03 12:09:11,405 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:09:11,426 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-03 12:09:11,427 [INFO]: The number of anomalous clusters: 7
+2025-06-03 12:09:11,428 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:11,433 [INFO]: precision: 0.667, recall: 1.000, f1: 0.800
+2025-06-03 12:09:11,441 [INFO]: Experiment result plotted!
+2025-06-03 12:09:11,729 [INFO]: ============================================================
+2025-06-03 12:09:11,731 [INFO]: Dataset: error_rate (metric error_rate_25), m: 5, p: 99
+2025-06-03 12:09:11,740 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:09:11,761 [INFO]: The number of anomalous seqs after ap clustering: 5
+2025-06-03 12:09:11,762 [INFO]: The number of anomalous clusters: 5
+2025-06-03 12:09:11,766 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:11,768 [INFO]: precision: 0.444, recall: 1.000, f1: 0.615
+2025-06-03 12:09:11,774 [INFO]: Experiment result plotted!
+2025-06-03 12:09:12,035 [INFO]: ============================================================
+2025-06-03 12:09:12,035 [INFO]: Dataset: error_rate (metric error_rate_26), m: 5, p: 99
+2025-06-03 12:09:12,050 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:09:12,088 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:09:12,088 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:09:12,088 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:12,098 [INFO]: precision: 0.714, recall: 0.667, f1: 0.690
+2025-06-03 12:09:12,105 [INFO]: Experiment result plotted!
+2025-06-03 12:09:12,386 [INFO]: ============================================================
+2025-06-03 12:09:12,386 [INFO]: Dataset: error_rate (metric error_rate_27), m: 5, p: 99
+2025-06-03 12:09:12,395 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:09:12,424 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:09:12,425 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:09:12,432 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:12,435 [INFO]: precision: 0.400, recall: 1.000, f1: 0.571
+2025-06-03 12:09:12,448 [INFO]: Experiment result plotted!
+2025-06-03 12:09:12,760 [INFO]: ============================================================
+2025-06-03 12:09:12,760 [INFO]: Dataset: error_rate (metric error_rate_28), m: 5, p: 99
+2025-06-03 12:09:12,774 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:09:12,801 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:09:12,802 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:09:12,808 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:12,812 [INFO]: precision: 0.300, recall: 0.429, f1: 0.353
+2025-06-03 12:09:12,821 [INFO]: Experiment result plotted!
+2025-06-03 12:09:13,121 [INFO]: ============================================================
+2025-06-03 12:09:13,122 [INFO]: Dataset: error_rate (metric error_rate_29), m: 5, p: 99
+2025-06-03 12:09:13,132 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:09:13,156 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:09:13,157 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:09:13,161 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:13,164 [INFO]: precision: 0.300, recall: 1.000, f1: 0.462
+2025-06-03 12:09:13,173 [INFO]: Experiment result plotted!
+2025-06-03 12:09:13,436 [INFO]: ============================================================
+2025-06-03 12:09:13,436 [INFO]: Dataset: error_rate (metric error_rate_30), m: 5, p: 99
+2025-06-03 12:09:13,444 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:09:13,469 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:09:13,469 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:09:13,474 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:13,477 [INFO]: precision: 0.714, recall: 1.000, f1: 0.833
+2025-06-03 12:09:13,482 [INFO]: Experiment result plotted!
+2025-06-03 12:09:13,758 [INFO]: ============================================================
+2025-06-03 12:09:13,758 [INFO]: Dataset: error_rate (metric error_rate_31), m: 5, p: 99
+2025-06-03 12:09:13,775 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:09:13,803 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-03 12:09:13,804 [INFO]: The number of anomalous clusters: 7
+2025-06-03 12:09:13,810 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:13,813 [INFO]: precision: 0.533, recall: 0.667, f1: 0.593
+2025-06-03 12:09:13,823 [INFO]: Experiment result plotted!
+2025-06-03 12:09:14,130 [INFO]: ============================================================
+2025-06-03 12:09:14,131 [INFO]: Dataset: error_rate (metric error_rate_32), m: 5, p: 99
+2025-06-03 12:09:14,143 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:09:14,166 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-03 12:09:14,168 [INFO]: The number of anomalous clusters: 7
+2025-06-03 12:09:14,183 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:14,188 [INFO]: precision: 0.364, recall: 1.000, f1: 0.533
+2025-06-03 12:09:14,194 [INFO]: Experiment result plotted!
+2025-06-03 12:09:14,436 [INFO]: ============================================================
+2025-06-03 12:09:14,436 [INFO]: Dataset: error_rate (metric error_rate_33), m: 5, p: 99
+2025-06-03 12:09:14,454 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:09:14,478 [INFO]: The number of anomalous seqs after ap clustering: 5
+2025-06-03 12:09:14,478 [INFO]: The number of anomalous clusters: 5
+2025-06-03 12:09:14,478 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:14,485 [INFO]: precision: 0.444, recall: 0.571, f1: 0.500
+2025-06-03 12:09:14,488 [INFO]: Experiment result plotted!
+2025-06-03 12:09:14,774 [INFO]: ============================================================
+2025-06-03 12:09:14,775 [INFO]: Dataset: error_rate (metric error_rate_34), m: 5, p: 99
+2025-06-03 12:09:14,784 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:09:14,807 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:09:14,807 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:09:14,812 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:14,815 [INFO]: precision: 0.714, recall: 1.000, f1: 0.833
+2025-06-03 12:09:14,823 [INFO]: Experiment result plotted!
+2025-06-03 12:09:15,244 [INFO]: ============================================================
+2025-06-03 12:09:15,246 [INFO]: Dataset: error_rate (metric error_rate_35), m: 5, p: 99
+2025-06-03 12:09:15,269 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:09:15,311 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-03 12:09:15,312 [INFO]: The number of anomalous clusters: 7
+2025-06-03 12:09:15,321 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:15,327 [INFO]: precision: 0.444, recall: 1.000, f1: 0.615
+2025-06-03 12:09:15,345 [INFO]: Experiment result plotted!
+2025-06-03 12:09:15,601 [INFO]: ============================================================
+2025-06-03 12:09:15,601 [INFO]: Dataset: error_rate (metric error_rate_36), m: 5, p: 99
+2025-06-03 12:09:15,621 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:09:15,638 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-03 12:09:15,638 [INFO]: The number of anomalous clusters: 7
+2025-06-03 12:09:15,642 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:15,646 [INFO]: precision: 0.364, recall: 1.000, f1: 0.533
+2025-06-03 12:09:15,653 [INFO]: Experiment result plotted!
+2025-06-03 12:09:16,085 [INFO]: ============================================================
+2025-06-03 12:09:16,086 [INFO]: Dataset: error_rate (metric error_rate_37), m: 5, p: 99
+2025-06-03 12:09:16,112 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:09:16,224 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:09:16,225 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:09:16,234 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:16,239 [INFO]: precision: 0.300, recall: 1.000, f1: 0.462
+2025-06-03 12:09:16,254 [INFO]: Experiment result plotted!
+2025-06-03 12:09:16,569 [INFO]: ============================================================
+2025-06-03 12:09:16,569 [INFO]: Dataset: error_rate (metric error_rate_38), m: 5, p: 99
+2025-06-03 12:09:16,595 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:09:16,624 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-03 12:09:16,624 [INFO]: The number of anomalous clusters: 7
+2025-06-03 12:09:16,649 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:16,655 [INFO]: precision: 0.600, recall: 1.000, f1: 0.750
+2025-06-03 12:09:16,670 [INFO]: Experiment result plotted!
+2025-06-03 12:09:17,053 [INFO]: ============================================================
+2025-06-03 12:09:17,053 [INFO]: Dataset: error_rate (metric error_rate_39), m: 5, p: 99
+2025-06-03 12:09:17,070 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:09:17,093 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-03 12:09:17,094 [INFO]: The number of anomalous clusters: 7
+2025-06-03 12:09:17,099 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:17,103 [INFO]: precision: 0.667, recall: 1.000, f1: 0.800
+2025-06-03 12:09:17,112 [INFO]: Experiment result plotted!
+2025-06-03 12:09:17,403 [INFO]: ============================================================
+2025-06-03 12:09:17,403 [INFO]: Dataset: error_rate (metric error_rate_40), m: 5, p: 99
+2025-06-03 12:09:17,407 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:09:17,469 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:09:17,470 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:09:17,472 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:17,478 [INFO]: precision: 0.500, recall: 1.000, f1: 0.667
+2025-06-03 12:09:17,486 [INFO]: Experiment result plotted!
+2025-06-03 12:09:17,752 [INFO]: ============================================================
+2025-06-03 12:09:17,752 [INFO]: Dataset: error_rate (metric error_rate_41), m: 5, p: 99
+2025-06-03 12:09:17,761 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:09:17,785 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:09:17,785 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:09:17,789 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:17,789 [INFO]: precision: 0.714, recall: 0.714, f1: 0.714
+2025-06-03 12:09:17,802 [INFO]: Experiment result plotted!
+2025-06-03 12:09:18,059 [INFO]: ============================================================
+2025-06-03 12:09:18,059 [INFO]: Dataset: error_rate (metric error_rate_42), m: 5, p: 99
+2025-06-03 12:09:18,069 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:09:18,097 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-03 12:09:18,097 [INFO]: The number of anomalous clusters: 7
+2025-06-03 12:09:18,101 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:18,105 [INFO]: precision: 0.273, recall: 1.000, f1: 0.429
+2025-06-03 12:09:18,109 [INFO]: Experiment result plotted!
+2025-06-03 12:09:18,629 [INFO]: ============================================================
+2025-06-03 12:09:18,629 [INFO]: Dataset: error_rate (metric error_rate_43), m: 5, p: 99
+2025-06-03 12:09:18,650 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:09:18,692 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-03 12:09:18,693 [INFO]: The number of anomalous clusters: 7
+2025-06-03 12:09:18,702 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:18,707 [INFO]: precision: 0.467, recall: 0.700, f1: 0.560
+2025-06-03 12:09:18,726 [INFO]: Experiment result plotted!
+2025-06-03 12:09:19,019 [INFO]: ============================================================
+2025-06-03 12:09:19,019 [INFO]: Dataset: error_rate (metric error_rate_44), m: 5, p: 99
+2025-06-03 12:09:19,037 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:09:19,056 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:09:19,057 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:09:19,061 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:19,063 [INFO]: precision: 0.500, recall: 0.625, f1: 0.556
+2025-06-03 12:09:19,071 [INFO]: Experiment result plotted!
+2025-06-03 12:09:19,405 [INFO]: ============================================================
+2025-06-03 12:09:19,406 [INFO]: Dataset: error_rate (metric error_rate_45), m: 5, p: 99
+2025-06-03 12:09:19,422 [INFO]: The number of anomalous seqs: 7
+2025-06-03 12:09:19,456 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-03 12:09:19,456 [INFO]: The number of anomalous clusters: 7
+2025-06-03 12:09:19,467 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:19,472 [INFO]: precision: 0.632, recall: 1.000, f1: 0.774
+2025-06-03 12:09:19,493 [INFO]: Experiment result plotted!
+2025-06-03 12:09:19,782 [INFO]: ============================================================
+2025-06-03 12:09:19,782 [INFO]: Dataset: error_rate (metric error_rate_46), m: 5, p: 99
+2025-06-03 12:09:19,782 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:09:19,813 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:09:19,818 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:09:19,821 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:19,823 [INFO]: precision: 0.400, recall: 0.500, f1: 0.444
+2025-06-03 12:09:19,828 [INFO]: Experiment result plotted!
+2025-06-03 12:09:20,119 [INFO]: ============================================================
+2025-06-03 12:09:20,119 [INFO]: Dataset: error_rate (metric error_rate_47), m: 5, p: 99
+2025-06-03 12:09:20,135 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:09:20,154 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:09:20,154 [INFO]: The number of anomalous clusters: 4
+2025-06-03 12:09:20,171 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:20,171 [INFO]: precision: 0.500, recall: 0.636, f1: 0.560
+2025-06-03 12:09:20,181 [INFO]: Experiment result plotted!
+2025-06-03 12:09:20,569 [INFO]: ============================================================
+2025-06-03 12:09:20,569 [INFO]: Dataset: error_rate (metric error_rate_48), m: 5, p: 99
+2025-06-03 12:09:20,589 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:09:20,609 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:09:20,610 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:09:20,612 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:20,616 [INFO]: precision: 0.400, recall: 0.500, f1: 0.444
+2025-06-03 12:09:20,619 [INFO]: Experiment result plotted!
+2025-06-03 12:09:20,919 [INFO]: ============================================================
+2025-06-03 12:09:20,919 [INFO]: Dataset: error_rate (metric error_rate_49), m: 5, p: 99
+2025-06-03 12:09:20,937 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:09:20,988 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:09:20,989 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:09:20,994 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:20,998 [INFO]: precision: 0.300, recall: 0.500, f1: 0.375
+2025-06-03 12:09:21,011 [INFO]: Experiment result plotted!
+2025-06-03 12:09:21,388 [INFO]: ============================================================
+2025-06-03 12:09:21,388 [INFO]: Dataset: error_rate (metric error_rate_50), m: 5, p: 99
+2025-06-03 12:09:21,562 [INFO]: The number of anomalous seqs: 6
+2025-06-03 12:09:21,583 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-03 12:09:21,584 [INFO]: The number of anomalous clusters: 6
+2025-06-03 12:09:21,590 [INFO]: Metric patterns dumped.
+2025-06-03 12:09:21,593 [INFO]: precision: 0.500, recall: 1.000, f1: 0.667
+2025-06-03 12:09:21,597 [INFO]: Experiment result plotted!
+2025-06-03 12:09:21,958 [INFO]: ^^^^^^^^^^^^^^^ Experimental results of Error Rate dataset ^^^^^^^^^^^^^^^
+2025-06-03 12:09:21,959 [INFO]: precision: 0.507, recall: 0.861, f1: 0.622
+2025-06-06 19:54:15,149 [INFO]: ^^^^^^^^^^^^^^^ Offline anomaly detection for Error Rate dataset ^^^^^^^^^^^^^^^
+2025-06-06 19:54:16,079 [INFO]: ============================================================
+2025-06-06 19:54:16,079 [INFO]: Dataset: error_rate (metric error_rate_1), m: 5, p: 99
+2025-06-06 19:54:25,332 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:54:25,403 [INFO]: The number of anomalous seqs after ap clustering: 5
+2025-06-06 19:54:25,404 [INFO]: The number of anomalous clusters: 5
+2025-06-06 19:54:25,409 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:25,414 [INFO]: precision: 0.273, recall: 1.000, f1: 0.429
+2025-06-06 19:54:25,552 [INFO]: Experiment result plotted!
+2025-06-06 19:54:25,777 [INFO]: ============================================================
+2025-06-06 19:54:25,779 [INFO]: Dataset: error_rate (metric error_rate_2), m: 5, p: 99
+2025-06-06 19:54:25,791 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:54:25,857 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-06 19:54:25,859 [INFO]: The number of anomalous clusters: 7
+2025-06-06 19:54:25,867 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:25,872 [INFO]: precision: 0.364, recall: 1.000, f1: 0.533
+2025-06-06 19:54:25,889 [INFO]: Experiment result plotted!
+2025-06-06 19:54:26,124 [INFO]: ============================================================
+2025-06-06 19:54:26,124 [INFO]: Dataset: error_rate (metric error_rate_3), m: 5, p: 99
+2025-06-06 19:54:26,134 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:54:26,158 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:54:26,163 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:54:26,169 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:26,173 [INFO]: precision: 0.500, recall: 1.000, f1: 0.667
+2025-06-06 19:54:26,181 [INFO]: Experiment result plotted!
+2025-06-06 19:54:26,469 [INFO]: ============================================================
+2025-06-06 19:54:26,469 [INFO]: Dataset: error_rate (metric error_rate_4), m: 5, p: 99
+2025-06-06 19:54:26,479 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:54:26,505 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:54:26,506 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:54:26,509 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:26,512 [INFO]: precision: 0.500, recall: 1.000, f1: 0.667
+2025-06-06 19:54:26,521 [INFO]: Experiment result plotted!
+2025-06-06 19:54:26,763 [INFO]: ============================================================
+2025-06-06 19:54:26,763 [INFO]: Dataset: error_rate (metric error_rate_5), m: 5, p: 99
+2025-06-06 19:54:26,771 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:54:26,799 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:54:26,799 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:54:26,806 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:26,809 [INFO]: precision: 0.500, recall: 0.556, f1: 0.526
+2025-06-06 19:54:26,814 [INFO]: Experiment result plotted!
+2025-06-06 19:54:27,089 [INFO]: ============================================================
+2025-06-06 19:54:27,089 [INFO]: Dataset: error_rate (metric error_rate_6), m: 5, p: 99
+2025-06-06 19:54:27,099 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:54:27,124 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-06 19:54:27,125 [INFO]: The number of anomalous clusters: 7
+2025-06-06 19:54:27,129 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:27,132 [INFO]: precision: 0.467, recall: 1.000, f1: 0.636
+2025-06-06 19:54:27,140 [INFO]: Experiment result plotted!
+2025-06-06 19:54:27,424 [INFO]: ============================================================
+2025-06-06 19:54:27,424 [INFO]: Dataset: error_rate (metric error_rate_7), m: 5, p: 99
+2025-06-06 19:54:27,435 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:54:27,479 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:54:27,481 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:54:27,487 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:27,490 [INFO]: precision: 0.273, recall: 1.000, f1: 0.429
+2025-06-06 19:54:27,499 [INFO]: Experiment result plotted!
+2025-06-06 19:54:27,787 [INFO]: ============================================================
+2025-06-06 19:54:27,787 [INFO]: Dataset: error_rate (metric error_rate_8), m: 5, p: 99
+2025-06-06 19:54:27,793 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:54:27,823 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-06 19:54:27,823 [INFO]: The number of anomalous clusters: 7
+2025-06-06 19:54:27,829 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:27,832 [INFO]: precision: 0.467, recall: 0.700, f1: 0.560
+2025-06-06 19:54:27,842 [INFO]: Experiment result plotted!
+2025-06-06 19:54:28,124 [INFO]: ============================================================
+2025-06-06 19:54:28,129 [INFO]: Dataset: error_rate (metric error_rate_9), m: 5, p: 99
+2025-06-06 19:54:28,139 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:54:28,161 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:54:28,161 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:54:28,172 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:28,176 [INFO]: precision: 0.500, recall: 1.000, f1: 0.667
+2025-06-06 19:54:28,180 [INFO]: Experiment result plotted!
+2025-06-06 19:54:28,459 [INFO]: ============================================================
+2025-06-06 19:54:28,459 [INFO]: Dataset: error_rate (metric error_rate_10), m: 5, p: 99
+2025-06-06 19:54:28,473 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:54:28,499 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-06 19:54:28,503 [INFO]: The number of anomalous clusters: 7
+2025-06-06 19:54:28,507 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:28,511 [INFO]: precision: 0.600, recall: 1.000, f1: 0.750
+2025-06-06 19:54:28,519 [INFO]: Experiment result plotted!
+2025-06-06 19:54:28,809 [INFO]: ============================================================
+2025-06-06 19:54:28,812 [INFO]: Dataset: error_rate (metric error_rate_11), m: 5, p: 99
+2025-06-06 19:54:28,819 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:54:28,858 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:54:28,866 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:54:28,879 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:28,881 [INFO]: precision: 0.667, recall: 1.000, f1: 0.800
+2025-06-06 19:54:28,897 [INFO]: Experiment result plotted!
+2025-06-06 19:54:29,229 [INFO]: ============================================================
+2025-06-06 19:54:29,229 [INFO]: Dataset: error_rate (metric error_rate_12), m: 5, p: 99
+2025-06-06 19:54:29,245 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:54:29,270 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-06 19:54:29,271 [INFO]: The number of anomalous clusters: 7
+2025-06-06 19:54:29,277 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:29,279 [INFO]: precision: 0.600, recall: 1.000, f1: 0.750
+2025-06-06 19:54:29,288 [INFO]: Experiment result plotted!
+2025-06-06 19:54:29,644 [INFO]: ============================================================
+2025-06-06 19:54:29,644 [INFO]: Dataset: error_rate (metric error_rate_13), m: 5, p: 99
+2025-06-06 19:54:29,659 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:54:29,699 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-06 19:54:29,699 [INFO]: The number of anomalous clusters: 7
+2025-06-06 19:54:29,708 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:29,711 [INFO]: precision: 0.467, recall: 0.636, f1: 0.538
+2025-06-06 19:54:29,721 [INFO]: Experiment result plotted!
+2025-06-06 19:54:30,009 [INFO]: ============================================================
+2025-06-06 19:54:30,010 [INFO]: Dataset: error_rate (metric error_rate_14), m: 5, p: 99
+2025-06-06 19:54:30,019 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:54:30,033 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-06 19:54:30,035 [INFO]: The number of anomalous clusters: 7
+2025-06-06 19:54:30,043 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:30,046 [INFO]: precision: 0.600, recall: 1.000, f1: 0.750
+2025-06-06 19:54:30,051 [INFO]: Experiment result plotted!
+2025-06-06 19:54:30,359 [INFO]: ============================================================
+2025-06-06 19:54:30,359 [INFO]: Dataset: error_rate (metric error_rate_15), m: 5, p: 99
+2025-06-06 19:54:30,371 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:54:30,384 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-06 19:54:30,384 [INFO]: The number of anomalous clusters: 7
+2025-06-06 19:54:30,390 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:30,392 [INFO]: precision: 0.562, recall: 1.000, f1: 0.720
+2025-06-06 19:54:30,393 [INFO]: Experiment result plotted!
+2025-06-06 19:54:30,795 [INFO]: ============================================================
+2025-06-06 19:54:30,795 [INFO]: Dataset: error_rate (metric error_rate_16), m: 5, p: 99
+2025-06-06 19:54:30,811 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:54:30,849 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:54:30,849 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:54:30,861 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:30,865 [INFO]: precision: 0.643, recall: 1.000, f1: 0.783
+2025-06-06 19:54:30,878 [INFO]: Experiment result plotted!
+2025-06-06 19:54:31,189 [INFO]: ============================================================
+2025-06-06 19:54:31,189 [INFO]: Dataset: error_rate (metric error_rate_17), m: 5, p: 99
+2025-06-06 19:54:31,202 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:54:31,223 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:54:31,224 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:54:31,229 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:31,229 [INFO]: precision: 0.500, recall: 0.556, f1: 0.526
+2025-06-06 19:54:31,240 [INFO]: Experiment result plotted!
+2025-06-06 19:54:31,539 [INFO]: ============================================================
+2025-06-06 19:54:31,539 [INFO]: Dataset: error_rate (metric error_rate_18), m: 5, p: 99
+2025-06-06 19:54:31,549 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:54:31,571 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:54:31,572 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:54:31,578 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:31,580 [INFO]: precision: 0.571, recall: 0.667, f1: 0.615
+2025-06-06 19:54:31,588 [INFO]: Experiment result plotted!
+2025-06-06 19:54:31,874 [INFO]: ============================================================
+2025-06-06 19:54:31,874 [INFO]: Dataset: error_rate (metric error_rate_19), m: 5, p: 99
+2025-06-06 19:54:31,884 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:54:31,905 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:54:31,906 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:54:31,911 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:31,913 [INFO]: precision: 0.571, recall: 1.000, f1: 0.727
+2025-06-06 19:54:31,920 [INFO]: Experiment result plotted!
+2025-06-06 19:54:32,189 [INFO]: ============================================================
+2025-06-06 19:54:32,192 [INFO]: Dataset: error_rate (metric error_rate_20), m: 5, p: 99
+2025-06-06 19:54:32,203 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:54:32,245 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:54:32,246 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:54:32,249 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:32,255 [INFO]: precision: 0.714, recall: 0.769, f1: 0.741
+2025-06-06 19:54:32,263 [INFO]: Experiment result plotted!
+2025-06-06 19:54:32,545 [INFO]: ============================================================
+2025-06-06 19:54:32,545 [INFO]: Dataset: error_rate (metric error_rate_21), m: 5, p: 99
+2025-06-06 19:54:32,554 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:54:32,599 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:54:32,599 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:54:32,605 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:32,608 [INFO]: precision: 0.571, recall: 1.000, f1: 0.727
+2025-06-06 19:54:32,616 [INFO]: Experiment result plotted!
+2025-06-06 19:54:32,910 [INFO]: ============================================================
+2025-06-06 19:54:32,910 [INFO]: Dataset: error_rate (metric error_rate_22), m: 5, p: 99
+2025-06-06 19:54:32,919 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:54:32,944 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:54:32,949 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:54:32,953 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:32,956 [INFO]: precision: 0.667, recall: 1.000, f1: 0.800
+2025-06-06 19:54:32,964 [INFO]: Experiment result plotted!
+2025-06-06 19:54:33,250 [INFO]: ============================================================
+2025-06-06 19:54:33,250 [INFO]: Dataset: error_rate (metric error_rate_23), m: 5, p: 99
+2025-06-06 19:54:33,259 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:54:33,284 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-06 19:54:33,286 [INFO]: The number of anomalous clusters: 7
+2025-06-06 19:54:33,290 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:33,294 [INFO]: precision: 0.600, recall: 0.643, f1: 0.621
+2025-06-06 19:54:33,299 [INFO]: Experiment result plotted!
+2025-06-06 19:54:33,599 [INFO]: ============================================================
+2025-06-06 19:54:33,599 [INFO]: Dataset: error_rate (metric error_rate_24), m: 5, p: 99
+2025-06-06 19:54:33,613 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:54:33,634 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-06 19:54:33,634 [INFO]: The number of anomalous clusters: 7
+2025-06-06 19:54:33,640 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:33,644 [INFO]: precision: 0.667, recall: 1.000, f1: 0.800
+2025-06-06 19:54:33,653 [INFO]: Experiment result plotted!
+2025-06-06 19:54:33,955 [INFO]: ============================================================
+2025-06-06 19:54:33,955 [INFO]: Dataset: error_rate (metric error_rate_25), m: 5, p: 99
+2025-06-06 19:54:33,967 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:54:33,994 [INFO]: The number of anomalous seqs after ap clustering: 5
+2025-06-06 19:54:33,995 [INFO]: The number of anomalous clusters: 5
+2025-06-06 19:54:34,000 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:34,004 [INFO]: precision: 0.444, recall: 1.000, f1: 0.615
+2025-06-06 19:54:34,010 [INFO]: Experiment result plotted!
+2025-06-06 19:54:34,279 [INFO]: ============================================================
+2025-06-06 19:54:34,279 [INFO]: Dataset: error_rate (metric error_rate_26), m: 5, p: 99
+2025-06-06 19:54:34,289 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:54:34,325 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:54:34,325 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:54:34,330 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:34,336 [INFO]: precision: 0.714, recall: 0.667, f1: 0.690
+2025-06-06 19:54:34,352 [INFO]: Experiment result plotted!
+2025-06-06 19:54:34,646 [INFO]: ============================================================
+2025-06-06 19:54:34,650 [INFO]: Dataset: error_rate (metric error_rate_27), m: 5, p: 99
+2025-06-06 19:54:34,654 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:54:34,680 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:54:34,680 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:54:34,686 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:34,690 [INFO]: precision: 0.400, recall: 1.000, f1: 0.571
+2025-06-06 19:54:34,696 [INFO]: Experiment result plotted!
+2025-06-06 19:54:34,985 [INFO]: ============================================================
+2025-06-06 19:54:34,985 [INFO]: Dataset: error_rate (metric error_rate_28), m: 5, p: 99
+2025-06-06 19:54:34,995 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:54:35,015 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:54:35,015 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:54:35,021 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:35,023 [INFO]: precision: 0.300, recall: 0.429, f1: 0.353
+2025-06-06 19:54:35,043 [INFO]: Experiment result plotted!
+2025-06-06 19:54:35,394 [INFO]: ============================================================
+2025-06-06 19:54:35,394 [INFO]: Dataset: error_rate (metric error_rate_29), m: 5, p: 99
+2025-06-06 19:54:35,402 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:54:35,423 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:54:35,424 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:54:35,427 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:35,430 [INFO]: precision: 0.300, recall: 1.000, f1: 0.462
+2025-06-06 19:54:35,435 [INFO]: Experiment result plotted!
+2025-06-06 19:54:35,737 [INFO]: ============================================================
+2025-06-06 19:54:35,737 [INFO]: Dataset: error_rate (metric error_rate_30), m: 5, p: 99
+2025-06-06 19:54:35,749 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:54:35,774 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:54:35,775 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:54:35,779 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:35,783 [INFO]: precision: 0.714, recall: 1.000, f1: 0.833
+2025-06-06 19:54:35,791 [INFO]: Experiment result plotted!
+2025-06-06 19:54:36,111 [INFO]: ============================================================
+2025-06-06 19:54:36,111 [INFO]: Dataset: error_rate (metric error_rate_31), m: 5, p: 99
+2025-06-06 19:54:36,119 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:54:36,137 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-06 19:54:36,137 [INFO]: The number of anomalous clusters: 7
+2025-06-06 19:54:36,141 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:36,143 [INFO]: precision: 0.533, recall: 0.667, f1: 0.593
+2025-06-06 19:54:36,151 [INFO]: Experiment result plotted!
+2025-06-06 19:54:36,489 [INFO]: ============================================================
+2025-06-06 19:54:36,489 [INFO]: Dataset: error_rate (metric error_rate_32), m: 5, p: 99
+2025-06-06 19:54:36,502 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:54:36,517 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-06 19:54:36,517 [INFO]: The number of anomalous clusters: 7
+2025-06-06 19:54:36,524 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:36,527 [INFO]: precision: 0.364, recall: 1.000, f1: 0.533
+2025-06-06 19:54:36,532 [INFO]: Experiment result plotted!
+2025-06-06 19:54:36,829 [INFO]: ============================================================
+2025-06-06 19:54:36,829 [INFO]: Dataset: error_rate (metric error_rate_33), m: 5, p: 99
+2025-06-06 19:54:36,840 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:54:36,862 [INFO]: The number of anomalous seqs after ap clustering: 5
+2025-06-06 19:54:36,862 [INFO]: The number of anomalous clusters: 5
+2025-06-06 19:54:36,869 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:36,872 [INFO]: precision: 0.444, recall: 0.571, f1: 0.500
+2025-06-06 19:54:36,880 [INFO]: Experiment result plotted!
+2025-06-06 19:54:37,179 [INFO]: ============================================================
+2025-06-06 19:54:37,179 [INFO]: Dataset: error_rate (metric error_rate_34), m: 5, p: 99
+2025-06-06 19:54:37,189 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:54:37,211 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:54:37,211 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:54:37,221 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:37,223 [INFO]: precision: 0.714, recall: 1.000, f1: 0.833
+2025-06-06 19:54:37,229 [INFO]: Experiment result plotted!
+2025-06-06 19:54:37,521 [INFO]: ============================================================
+2025-06-06 19:54:37,521 [INFO]: Dataset: error_rate (metric error_rate_35), m: 5, p: 99
+2025-06-06 19:54:37,536 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:54:37,560 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-06 19:54:37,560 [INFO]: The number of anomalous clusters: 7
+2025-06-06 19:54:37,565 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:37,568 [INFO]: precision: 0.444, recall: 1.000, f1: 0.615
+2025-06-06 19:54:37,580 [INFO]: Experiment result plotted!
+2025-06-06 19:54:37,900 [INFO]: ============================================================
+2025-06-06 19:54:37,904 [INFO]: Dataset: error_rate (metric error_rate_36), m: 5, p: 99
+2025-06-06 19:54:37,916 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:54:37,940 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-06 19:54:37,940 [INFO]: The number of anomalous clusters: 7
+2025-06-06 19:54:37,949 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:37,952 [INFO]: precision: 0.364, recall: 1.000, f1: 0.533
+2025-06-06 19:54:37,964 [INFO]: Experiment result plotted!
+2025-06-06 19:54:38,360 [INFO]: ============================================================
+2025-06-06 19:54:38,365 [INFO]: Dataset: error_rate (metric error_rate_37), m: 5, p: 99
+2025-06-06 19:54:38,375 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:54:38,430 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:54:38,435 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:54:38,440 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:38,445 [INFO]: precision: 0.300, recall: 1.000, f1: 0.462
+2025-06-06 19:54:38,455 [INFO]: Experiment result plotted!
+2025-06-06 19:54:38,749 [INFO]: ============================================================
+2025-06-06 19:54:38,749 [INFO]: Dataset: error_rate (metric error_rate_38), m: 5, p: 99
+2025-06-06 19:54:38,760 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:54:38,784 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-06 19:54:38,786 [INFO]: The number of anomalous clusters: 7
+2025-06-06 19:54:38,790 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:38,794 [INFO]: precision: 0.600, recall: 1.000, f1: 0.750
+2025-06-06 19:54:38,803 [INFO]: Experiment result plotted!
+2025-06-06 19:54:39,090 [INFO]: ============================================================
+2025-06-06 19:54:39,090 [INFO]: Dataset: error_rate (metric error_rate_39), m: 5, p: 99
+2025-06-06 19:54:39,101 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:54:39,124 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-06 19:54:39,124 [INFO]: The number of anomalous clusters: 7
+2025-06-06 19:54:39,130 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:39,132 [INFO]: precision: 0.667, recall: 1.000, f1: 0.800
+2025-06-06 19:54:39,142 [INFO]: Experiment result plotted!
+2025-06-06 19:54:39,440 [INFO]: ============================================================
+2025-06-06 19:54:39,444 [INFO]: Dataset: error_rate (metric error_rate_40), m: 5, p: 99
+2025-06-06 19:54:39,450 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:54:39,503 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:54:39,504 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:54:39,509 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:39,513 [INFO]: precision: 0.500, recall: 1.000, f1: 0.667
+2025-06-06 19:54:39,521 [INFO]: Experiment result plotted!
+2025-06-06 19:54:39,861 [INFO]: ============================================================
+2025-06-06 19:54:39,861 [INFO]: Dataset: error_rate (metric error_rate_41), m: 5, p: 99
+2025-06-06 19:54:39,878 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:54:39,900 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:54:39,900 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:54:39,906 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:39,909 [INFO]: precision: 0.714, recall: 0.714, f1: 0.714
+2025-06-06 19:54:39,913 [INFO]: Experiment result plotted!
+2025-06-06 19:54:40,255 [INFO]: ============================================================
+2025-06-06 19:54:40,255 [INFO]: Dataset: error_rate (metric error_rate_42), m: 5, p: 99
+2025-06-06 19:54:40,266 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:54:40,279 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-06 19:54:40,279 [INFO]: The number of anomalous clusters: 7
+2025-06-06 19:54:40,290 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:40,293 [INFO]: precision: 0.273, recall: 1.000, f1: 0.429
+2025-06-06 19:54:40,299 [INFO]: Experiment result plotted!
+2025-06-06 19:54:40,650 [INFO]: ============================================================
+2025-06-06 19:54:40,650 [INFO]: Dataset: error_rate (metric error_rate_43), m: 5, p: 99
+2025-06-06 19:54:40,659 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:54:40,680 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-06 19:54:40,680 [INFO]: The number of anomalous clusters: 7
+2025-06-06 19:54:40,689 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:40,692 [INFO]: precision: 0.467, recall: 0.700, f1: 0.560
+2025-06-06 19:54:40,700 [INFO]: Experiment result plotted!
+2025-06-06 19:54:41,011 [INFO]: ============================================================
+2025-06-06 19:54:41,011 [INFO]: Dataset: error_rate (metric error_rate_44), m: 5, p: 99
+2025-06-06 19:54:41,019 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:54:41,040 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:54:41,041 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:54:41,044 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:41,044 [INFO]: precision: 0.500, recall: 0.625, f1: 0.556
+2025-06-06 19:54:41,054 [INFO]: Experiment result plotted!
+2025-06-06 19:54:41,384 [INFO]: ============================================================
+2025-06-06 19:54:41,387 [INFO]: Dataset: error_rate (metric error_rate_45), m: 5, p: 99
+2025-06-06 19:54:41,399 [INFO]: The number of anomalous seqs: 7
+2025-06-06 19:54:41,426 [INFO]: The number of anomalous seqs after ap clustering: 7
+2025-06-06 19:54:41,429 [INFO]: The number of anomalous clusters: 7
+2025-06-06 19:54:41,435 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:41,440 [INFO]: precision: 0.632, recall: 1.000, f1: 0.774
+2025-06-06 19:54:41,454 [INFO]: Experiment result plotted!
+2025-06-06 19:54:41,875 [INFO]: ============================================================
+2025-06-06 19:54:41,880 [INFO]: Dataset: error_rate (metric error_rate_46), m: 5, p: 99
+2025-06-06 19:54:41,889 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:54:41,910 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:54:41,910 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:54:41,911 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:41,911 [INFO]: precision: 0.400, recall: 0.500, f1: 0.444
+2025-06-06 19:54:41,926 [INFO]: Experiment result plotted!
+2025-06-06 19:54:42,495 [INFO]: ============================================================
+2025-06-06 19:54:42,495 [INFO]: Dataset: error_rate (metric error_rate_47), m: 5, p: 99
+2025-06-06 19:54:42,520 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:54:42,582 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:54:42,582 [INFO]: The number of anomalous clusters: 4
+2025-06-06 19:54:42,594 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:42,597 [INFO]: precision: 0.500, recall: 0.636, f1: 0.560
+2025-06-06 19:54:42,614 [INFO]: Experiment result plotted!
+2025-06-06 19:54:43,210 [INFO]: ============================================================
+2025-06-06 19:54:43,210 [INFO]: Dataset: error_rate (metric error_rate_48), m: 5, p: 99
+2025-06-06 19:54:43,227 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:54:43,250 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:54:43,250 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:54:43,258 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:43,262 [INFO]: precision: 0.400, recall: 0.500, f1: 0.444
+2025-06-06 19:54:43,270 [INFO]: Experiment result plotted!
+2025-06-06 19:54:43,674 [INFO]: ============================================================
+2025-06-06 19:54:43,674 [INFO]: Dataset: error_rate (metric error_rate_49), m: 5, p: 99
+2025-06-06 19:54:43,694 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:54:43,807 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:54:43,810 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:54:43,834 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:43,848 [INFO]: precision: 0.300, recall: 0.500, f1: 0.375
+2025-06-06 19:54:43,904 [INFO]: Experiment result plotted!
+2025-06-06 19:54:44,322 [INFO]: ============================================================
+2025-06-06 19:54:44,322 [INFO]: Dataset: error_rate (metric error_rate_50), m: 5, p: 99
+2025-06-06 19:54:44,330 [INFO]: The number of anomalous seqs: 6
+2025-06-06 19:54:44,358 [INFO]: The number of anomalous seqs after ap clustering: 6
+2025-06-06 19:54:44,359 [INFO]: The number of anomalous clusters: 6
+2025-06-06 19:54:44,361 [INFO]: Metric patterns dumped.
+2025-06-06 19:54:44,368 [INFO]: precision: 0.500, recall: 1.000, f1: 0.667
+2025-06-06 19:54:44,378 [INFO]: Experiment result plotted!
+2025-06-06 19:54:44,982 [INFO]: ^^^^^^^^^^^^^^^ Experimental results of Error Rate dataset ^^^^^^^^^^^^^^^
+2025-06-06 19:54:44,984 [INFO]: precision: 0.507, recall: 0.861, f1: 0.622
