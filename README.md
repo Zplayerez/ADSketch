@@ -4,6 +4,8 @@
 
 本项目复现了ICSE 2022论文《Adaptive Performance Anomaly Detection for Online Service Systems via Pattern Sketching》中的ADSketch算法。ADSketch是一种基于模式草图技术的自适应性能异常检测方法，在微服务系统的异常检测方面表现出色，具有良好的可解释性和适应性。
 
+> **注意**: 本仓库专注于ADSketch算法的复现和优化。如需了解完整的微服务系统测试与维护项目（包括微服务开发、监控部署、自动化测试等），请访问我们的主项目仓库：[微服务系统测试与维护实验项目](https://github.com/Zplayerez/Online-Boutique)
+
 ## 论文信息
 
 - **论文标题**: Adaptive Performance Anomaly Detection for Online Service Systems via Pattern Sketching
@@ -26,16 +28,37 @@ ADSketch采用离线和在线两个相互协作的阶段实现可解释和自适
 2. **自适应学习**: 持续捕获新的模式，适应动态变化环境
 3. **解释性输出**: 提供异常预警和相关解释
 
-## 实验环境
+## 项目安装
 
 ### 系统要求
 - Python 3.6+
 - 内存: 建议8GB以上
 - 操作系统: Windows/Linux/macOS
+- Git (支持submodule)
+
+### 克隆项目
+
+本项目引用了其他仓库作为子模块，请使用以下方式之一进行克隆：
+
+**方式1：克隆时直接包含子模块（推荐）**
+```bash
+git clone --recursive https://github.com/Zplayerez/ADSketch.git
+```
+
+**方式2：先克隆主仓库，再初始化子模块**
+```bash
+git clone https://github.com/Zplayerez/ADSketch.git
+cd ADSketch
+git submodule init
+git submodule update
+```
 
 ### 依赖安装
 
+进入项目目录后安装依赖：
+
 ```bash
+cd ADSketch
 pip install -r requirements.txt
 ```
 
@@ -46,6 +69,15 @@ pip install -r requirements.txt
 - matplotlib
 - networkx
 - numpy
+
+### 验证安装
+
+确认子模块已正确加载：
+```bash
+git submodule status
+```
+
+如果显示子模块路径和commit哈希，说明安装成功。
 
 ## 数据集准备
 
