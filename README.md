@@ -9,7 +9,7 @@
 - **论文标题**: Adaptive Performance Anomaly Detection for Online Service Systems via Pattern Sketching
 - **会议**: ICSE 2022
 - **类型**: KPI Anomaly Detection - Univariate Time Series AD
-- **GitHub链接**: [https://github.com/JoinFyc/Online-Boutique](https://github.com/JoinFyc/Online-Boutique)
+- **GitHub链接**: [https://github.com/OpsPAI/ADSketch](https://github.com/OpsPAI/ADSketch)
 
 ## 算法原理
 
