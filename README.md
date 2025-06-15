@@ -4,7 +4,19 @@
 
 本项目复现了ICSE 2022论文《Adaptive Performance Anomaly Detection for Online Service Systems via Pattern Sketching》中的ADSketch算法。ADSketch是一种基于模式草图技术的自适应性能异常检测方法，在微服务系统的异常检测方面表现出色，具有良好的可解释性和适应性。
 
-> **注意**: 本仓库专注于ADSketch算法的复现和优化。如需了解完整的微服务系统测试与维护项目（包括微服务开发、监控部署、自动化测试等），请访问我们的主项目仓库：[微服务系统测试与维护实验项目](https://github.com/Zplayerez/Online-Boutique)
+### 实验对象 - Online Boutique
+
+本项目基于Google的**Online Boutique**微服务演示应用进行实验验证。Online Boutique是一个云原生的电商微服务系统，具有以下特点：
+
+- **多语言架构**: 由11个用不同编程语言编写的微服务组成
+- **真实业务场景**: 包含商品浏览、购物车、支付等完整电商功能
+- **微服务通信**: 各服务间通过gRPC进行通信
+- **云原生设计**: 完全适配Kubernetes集群部署
+- **监控友好**: 内置丰富的性能指标，便于异常检测算法验证
+
+通过在Online Boutique上采集真实的性能数据（CPU使用率、内存占用、响应时间等），我们获得了高质量的时间序列数据用于ADSketch算法的训练和验证。
+
+> **完整项目**: 如需了解包含微服务开发、监控部署、自动化测试等完整功能的项目，请访问：[微服务系统测试与维护实验项目](https://github.com/Zplayerez/Online-Boutique)
 
 ## 论文信息
 
